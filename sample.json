@@ -1,0 +1,5014 @@
+{
+  "spots": [
+    {
+      "id": "spot4",
+      "name": "Location 4",
+      "coordinates": {
+        "lat": -18.5094,
+        "lng": -15.0896
+      },
+      "status": "active",
+      "lastUpdated": "2025-01-27T15:46:13Z",
+      "measurements": {
+        "temperature": 13.1,
+        "humidity": 45,
+        "pressure": 1017.5
+      },
+      "metadata": {
+        "deviceId": "dev_409",
+        "installationDate": "2024-01-04",
+        "type": "indoor"
+      },
+      "images": [
+        {
+          "id": "img4_1",
+          "url": "https://robohash.org/Location 4",
+          "caption": "Detailed view",
+          "timestamp": "2025-02-11T15:43:13Z"
+        },
+        {
+          "id": "img4_2",
+          "url": "https://robohash.org/Location 4",
+          "caption": "Overview shot",
+          "timestamp": "2025-02-11T15:41:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot5",
+      "name": "Location 5",
+      "coordinates": {
+        "lat": 69.6495,
+        "lng": 157.0645
+      },
+      "status": "active",
+      "lastUpdated": "2025-02-08T15:46:13Z",
+      "measurements": {
+        "temperature": 35.3,
+        "humidity": 65,
+        "pressure": 1013.2
+      },
+      "metadata": {
+        "deviceId": "dev_294",
+        "installationDate": "2024-01-18",
+        "type": "indoor"
+      },
+      "images": [
+        {
+          "id": "img5_1",
+          "url": "https://robohash.org/Location 5",
+          "caption": "Side angle",
+          "timestamp": "2025-02-11T15:04:13Z"
+        },
+        {
+          "id": "img5_2",
+          "url": "https://robohash.org/Location 5",
+          "caption": "Detailed view",
+          "timestamp": "2025-02-11T15:17:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot6",
+      "name": "Location 6",
+      "coordinates": {
+        "lat": -32.3139,
+        "lng": 121.6085
+      },
+      "status": "active",
+      "lastUpdated": "2025-01-15T15:46:13Z",
+      "measurements": {
+        "temperature": 38.7,
+        "humidity": 87,
+        "pressure": 1016.8
+      },
+      "metadata": {
+        "deviceId": "dev_822",
+        "installationDate": "2024-01-22",
+        "type": "outdoor"
+      },
+      "images": [
+        {
+          "id": "img6_1",
+          "url": "https://robohash.org/Location 6",
+          "caption": "Side angle",
+          "timestamp": "2025-02-11T14:48:13Z"
+        },
+        {
+          "id": "img6_2",
+          "url": "https://robohash.org/Location 6",
+          "caption": "Side angle",
+          "timestamp": "2025-02-11T15:34:13Z"
+        },
+        {
+          "id": "img6_3",
+          "url": "https://robohash.org/Location 6",
+          "caption": "Overview shot",
+          "timestamp": "2025-02-11T15:34:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot7",
+      "name": "Location 7",
+      "coordinates": {
+        "lat": -86.9236,
+        "lng": 40.4783
+      },
+      "status": "maintenance",
+      "lastUpdated": "2025-01-22T15:46:13Z",
+      "measurements": {
+        "temperature": 35.8,
+        "humidity": 80,
+        "pressure": 1006.9
+      },
+      "metadata": {
+        "deviceId": "dev_311",
+        "installationDate": "2024-01-11",
+        "type": "indoor"
+      },
+      "images": [
+        {
+          "id": "img7_1",
+          "url": "https://robohash.org/Location 7",
+          "caption": "Close-up detail",
+          "timestamp": "2025-02-11T15:02:13Z"
+        },
+        {
+          "id": "img7_2",
+          "url": "https://robohash.org/Location 7",
+          "caption": "Main view",
+          "timestamp": "2025-02-11T15:14:13Z"
+        },
+        {
+          "id": "img7_3",
+          "url": "https://robohash.org/Location 7",
+          "caption": "Side angle",
+          "timestamp": "2025-02-11T15:43:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot8",
+      "name": "Location 8",
+      "coordinates": {
+        "lat": 79.7582,
+        "lng": -134.1074
+      },
+      "status": "active",
+      "lastUpdated": "2025-01-20T15:46:13Z",
+      "measurements": {
+        "temperature": 20.4,
+        "humidity": 66,
+        "pressure": 1018.6
+      },
+      "metadata": {
+        "deviceId": "dev_507",
+        "installationDate": "2024-01-21",
+        "type": "indoor"
+      },
+      "images": [
+        {
+          "id": "img8_1",
+          "url": "https://robohash.org/Location 8",
+          "caption": "Overview shot",
+          "timestamp": "2025-02-11T15:05:13Z"
+        },
+        {
+          "id": "img8_2",
+          "url": "https://robohash.org/Location 8",
+          "caption": "Detailed view",
+          "timestamp": "2025-02-11T15:15:13Z"
+        },
+        {
+          "id": "img8_3",
+          "url": "https://robohash.org/Location 8",
+          "caption": "Close-up detail",
+          "timestamp": "2025-02-11T15:11:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot9",
+      "name": "Location 9",
+      "coordinates": {
+        "lat": -44.8937,
+        "lng": -129.9692
+      },
+      "status": "active",
+      "lastUpdated": "2025-02-03T15:46:13Z",
+      "measurements": {
+        "temperature": 11.7,
+        "humidity": 54,
+        "pressure": 1000.0
+      },
+      "metadata": {
+        "deviceId": "dev_312",
+        "installationDate": "2024-01-06",
+        "type": "outdoor"
+      },
+      "images": [
+        {
+          "id": "img9_1",
+          "url": "https://robohash.org/Location 9",
+          "caption": "Close-up detail",
+          "timestamp": "2025-02-11T15:19:13Z"
+        },
+        {
+          "id": "img9_2",
+          "url": "https://robohash.org/Location 9",
+          "caption": "Close-up detail",
+          "timestamp": "2025-02-11T15:25:13Z"
+        },
+        {
+          "id": "img9_3",
+          "url": "https://robohash.org/Location 9",
+          "caption": "Side angle",
+          "timestamp": "2025-02-11T15:41:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot10",
+      "name": "Location 10",
+      "coordinates": {
+        "lat": 55.8879,
+        "lng": -24.206
+      },
+      "status": "active",
+      "lastUpdated": "2025-01-24T15:46:13Z",
+      "measurements": {
+        "temperature": 21.5,
+        "humidity": 62,
+        "pressure": 1004.5
+      },
+      "metadata": {
+        "deviceId": "dev_967",
+        "installationDate": "2024-01-29",
+        "type": "indoor"
+      },
+      "images": [
+        {
+          "id": "img10_1",
+          "url": "https://robohash.org/Location 10",
+          "caption": "Side angle",
+          "timestamp": "2025-02-11T15:45:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot11",
+      "name": "Location 11",
+      "coordinates": {
+        "lat": -62.9836,
+        "lng": 66.1158
+      },
+      "status": "active",
+      "lastUpdated": "2025-01-19T15:46:13Z",
+      "measurements": {
+        "temperature": 32.9,
+        "humidity": 44,
+        "pressure": 1001.0
+      },
+      "metadata": {
+        "deviceId": "dev_619",
+        "installationDate": "2024-01-17",
+        "type": "outdoor"
+      },
+      "images": [
+        {
+          "id": "img11_1",
+          "url": "https://robohash.org/Location 11",
+          "caption": "Detailed view",
+          "timestamp": "2025-02-11T15:00:13Z"
+        },
+        {
+          "id": "img11_2",
+          "url": "https://robohash.org/Location 11",
+          "caption": "Detailed view",
+          "timestamp": "2025-02-11T15:46:13Z"
+        },
+        {
+          "id": "img11_3",
+          "url": "https://robohash.org/Location 11",
+          "caption": "Overview shot",
+          "timestamp": "2025-02-11T15:42:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot12",
+      "name": "Location 12",
+      "coordinates": {
+        "lat": 53.632,
+        "lng": -174.6683
+      },
+      "status": "maintenance",
+      "lastUpdated": "2025-01-29T15:46:13Z",
+      "measurements": {
+        "temperature": 19.0,
+        "humidity": 47,
+        "pressure": 1002.3
+      },
+      "metadata": {
+        "deviceId": "dev_136",
+        "installationDate": "2024-01-31",
+        "type": "outdoor"
+      },
+      "images": [
+        {
+          "id": "img12_1",
+          "url": "https://robohash.org/Location 12",
+          "caption": "Side angle",
+          "timestamp": "2025-02-11T14:47:13Z"
+        },
+        {
+          "id": "img12_2",
+          "url": "https://robohash.org/Location 12",
+          "caption": "Detailed view",
+          "timestamp": "2025-02-11T15:36:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot13",
+      "name": "Location 13",
+      "coordinates": {
+        "lat": -58.1311,
+        "lng": -104.4957
+      },
+      "status": "active",
+      "lastUpdated": "2025-01-14T15:46:13Z",
+      "measurements": {
+        "temperature": 27.6,
+        "humidity": 47,
+        "pressure": 1005.0
+      },
+      "metadata": {
+        "deviceId": "dev_934",
+        "installationDate": "2024-01-14",
+        "type": "indoor"
+      },
+      "images": [
+        {
+          "id": "img13_1",
+          "url": "https://robohash.org/Location 13",
+          "caption": "Close-up detail",
+          "timestamp": "2025-02-11T15:11:13Z"
+        },
+        {
+          "id": "img13_2",
+          "url": "https://robohash.org/Location 13",
+          "caption": "Overview shot",
+          "timestamp": "2025-02-11T15:30:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot14",
+      "name": "Location 14",
+      "coordinates": {
+        "lat": -3.0944,
+        "lng": 145.5743
+      },
+      "status": "maintenance",
+      "lastUpdated": "2025-01-26T15:46:13Z",
+      "measurements": {
+        "temperature": 15.8,
+        "humidity": 69,
+        "pressure": 1013.7
+      },
+      "metadata": {
+        "deviceId": "dev_925",
+        "installationDate": "2024-01-25",
+        "type": "outdoor"
+      },
+      "images": [
+        {
+          "id": "img14_1",
+          "url": "https://robohash.org/Location 14",
+          "caption": "Side angle",
+          "timestamp": "2025-02-11T14:46:13Z"
+        },
+        {
+          "id": "img14_2",
+          "url": "https://robohash.org/Location 14",
+          "caption": "Detailed view",
+          "timestamp": "2025-02-11T15:02:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot15",
+      "name": "Location 15",
+      "coordinates": {
+        "lat": -10.2414,
+        "lng": -121.1909
+      },
+      "status": "active",
+      "lastUpdated": "2025-01-28T15:46:13Z",
+      "measurements": {
+        "temperature": 18.7,
+        "humidity": 31,
+        "pressure": 1002.5
+      },
+      "metadata": {
+        "deviceId": "dev_793",
+        "installationDate": "2024-01-30",
+        "type": "outdoor"
+      },
+      "images": [
+        {
+          "id": "img15_1",
+          "url": "https://robohash.org/Location 15",
+          "caption": "Close-up detail",
+          "timestamp": "2025-02-11T15:12:13Z"
+        },
+        {
+          "id": "img15_2",
+          "url": "https://robohash.org/Location 15",
+          "caption": "Main view",
+          "timestamp": "2025-02-11T15:06:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot16",
+      "name": "Location 16",
+      "coordinates": {
+        "lat": 50.5159,
+        "lng": -38.1019
+      },
+      "status": "active",
+      "lastUpdated": "2025-02-01T15:46:13Z",
+      "measurements": {
+        "temperature": 37.8,
+        "humidity": 45,
+        "pressure": 1007.8
+      },
+      "metadata": {
+        "deviceId": "dev_697",
+        "installationDate": "2024-01-17",
+        "type": "indoor"
+      },
+      "images": [
+        {
+          "id": "img16_1",
+          "url": "https://robohash.org/Location 16",
+          "caption": "Detailed view",
+          "timestamp": "2025-02-11T15:10:13Z"
+        },
+        {
+          "id": "img16_2",
+          "url": "https://robohash.org/Location 16",
+          "caption": "Detailed view",
+          "timestamp": "2025-02-11T15:11:13Z"
+        },
+        {
+          "id": "img16_3",
+          "url": "https://robohash.org/Location 16",
+          "caption": "Detailed view",
+          "timestamp": "2025-02-11T15:04:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot17",
+      "name": "Location 17",
+      "coordinates": {
+        "lat": 65.2164,
+        "lng": 173.3627
+      },
+      "status": "active",
+      "lastUpdated": "2025-02-10T15:46:13Z",
+      "measurements": {
+        "temperature": 20.1,
+        "humidity": 65,
+        "pressure": 1017.8
+      },
+      "metadata": {
+        "deviceId": "dev_566",
+        "installationDate": "2024-01-14",
+        "type": "outdoor"
+      },
+      "images": [
+        {
+          "id": "img17_1",
+          "url": "https://robohash.org/Location 17",
+          "caption": "Close-up detail",
+          "timestamp": "2025-02-11T15:01:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot18",
+      "name": "Location 18",
+      "coordinates": {
+        "lat": 49.0012,
+        "lng": -71.252
+      },
+      "status": "active",
+      "lastUpdated": "2025-02-07T15:46:13Z",
+      "measurements": {
+        "temperature": 15.8,
+        "humidity": 74,
+        "pressure": 1012.8
+      },
+      "metadata": {
+        "deviceId": "dev_576",
+        "installationDate": "2024-01-19",
+        "type": "indoor"
+      },
+      "images": [
+        {
+          "id": "img18_1",
+          "url": "https://robohash.org/Location 18",
+          "caption": "Close-up detail",
+          "timestamp": "2025-02-11T15:39:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot19",
+      "name": "Location 19",
+      "coordinates": {
+        "lat": 68.7308,
+        "lng": -53.6643
+      },
+      "status": "active",
+      "lastUpdated": "2025-01-24T15:46:13Z",
+      "measurements": {
+        "temperature": 13.6,
+        "humidity": 39,
+        "pressure": 1004.9
+      },
+      "metadata": {
+        "deviceId": "dev_372",
+        "installationDate": "2024-01-26",
+        "type": "indoor"
+      },
+      "images": [
+        {
+          "id": "img19_1",
+          "url": "https://robohash.org/Location 19",
+          "caption": "Side angle",
+          "timestamp": "2025-02-11T14:51:13Z"
+        },
+        {
+          "id": "img19_2",
+          "url": "https://robohash.org/Location 19",
+          "caption": "Overview shot",
+          "timestamp": "2025-02-11T15:23:13Z"
+        },
+        {
+          "id": "img19_3",
+          "url": "https://robohash.org/Location 19",
+          "caption": "Side angle",
+          "timestamp": "2025-02-11T15:19:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot20",
+      "name": "Location 20",
+      "coordinates": {
+        "lat": -85.3269,
+        "lng": 44.2147
+      },
+      "status": "active",
+      "lastUpdated": "2025-01-22T15:46:13Z",
+      "measurements": {
+        "temperature": 11.9,
+        "humidity": 44,
+        "pressure": 1011.3
+      },
+      "metadata": {
+        "deviceId": "dev_602",
+        "installationDate": "2024-01-22",
+        "type": "outdoor"
+      },
+      "images": [
+        {
+          "id": "img20_1",
+          "url": "https://robohash.org/Location 20",
+          "caption": "Close-up detail",
+          "timestamp": "2025-02-11T15:01:13Z"
+        },
+        {
+          "id": "img20_2",
+          "url": "https://robohash.org/Location 20",
+          "caption": "Overview shot",
+          "timestamp": "2025-02-11T15:12:13Z"
+        },
+        {
+          "id": "img20_3",
+          "url": "https://robohash.org/Location 20",
+          "caption": "Overview shot",
+          "timestamp": "2025-02-11T15:27:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot21",
+      "name": "Location 21",
+      "coordinates": {
+        "lat": 87.2653,
+        "lng": 155.6145
+      },
+      "status": "active",
+      "lastUpdated": "2025-01-31T15:46:13Z",
+      "measurements": {
+        "temperature": 32.9,
+        "humidity": 33,
+        "pressure": 1012.6
+      },
+      "metadata": {
+        "deviceId": "dev_587",
+        "installationDate": "2024-01-02",
+        "type": "indoor"
+      },
+      "images": [
+        {
+          "id": "img21_1",
+          "url": "https://robohash.org/Location 21",
+          "caption": "Main view",
+          "timestamp": "2025-02-11T15:40:13Z"
+        },
+        {
+          "id": "img21_2",
+          "url": "https://robohash.org/Location 21",
+          "caption": "Close-up detail",
+          "timestamp": "2025-02-11T14:47:13Z"
+        },
+        {
+          "id": "img21_3",
+          "url": "https://robohash.org/Location 21",
+          "caption": "Main view",
+          "timestamp": "2025-02-11T15:12:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot22",
+      "name": "Location 22",
+      "coordinates": {
+        "lat": 51.5337,
+        "lng": 68.1652
+      },
+      "status": "maintenance",
+      "lastUpdated": "2025-01-13T15:46:13Z",
+      "measurements": {
+        "temperature": 17.9,
+        "humidity": 44,
+        "pressure": 1009.4
+      },
+      "metadata": {
+        "deviceId": "dev_552",
+        "installationDate": "2024-01-30",
+        "type": "outdoor"
+      },
+      "images": [
+        {
+          "id": "img22_1",
+          "url": "https://robohash.org/Location 22",
+          "caption": "Main view",
+          "timestamp": "2025-02-11T14:48:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot23",
+      "name": "Location 23",
+      "coordinates": {
+        "lat": -55.1089,
+        "lng": -74.467
+      },
+      "status": "maintenance",
+      "lastUpdated": "2025-01-21T15:46:13Z",
+      "measurements": {
+        "temperature": 18.1,
+        "humidity": 42,
+        "pressure": 1004.4
+      },
+      "metadata": {
+        "deviceId": "dev_902",
+        "installationDate": "2024-01-21",
+        "type": "indoor"
+      },
+      "images": [
+        {
+          "id": "img23_1",
+          "url": "https://robohash.org/Location 23",
+          "caption": "Detailed view",
+          "timestamp": "2025-02-11T15:01:13Z"
+        },
+        {
+          "id": "img23_2",
+          "url": "https://robohash.org/Location 23",
+          "caption": "Close-up detail",
+          "timestamp": "2025-02-11T15:04:13Z"
+        },
+        {
+          "id": "img23_3",
+          "url": "https://robohash.org/Location 23",
+          "caption": "Side angle",
+          "timestamp": "2025-02-11T15:14:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot24",
+      "name": "Location 24",
+      "coordinates": {
+        "lat": -58.8397,
+        "lng": 14.2622
+      },
+      "status": "maintenance",
+      "lastUpdated": "2025-02-10T15:46:13Z",
+      "measurements": {
+        "temperature": 27.4,
+        "humidity": 46,
+        "pressure": 1001.4
+      },
+      "metadata": {
+        "deviceId": "dev_277",
+        "installationDate": "2024-01-31",
+        "type": "indoor"
+      },
+      "images": [
+        {
+          "id": "img24_1",
+          "url": "https://robohash.org/Location 24",
+          "caption": "Detailed view",
+          "timestamp": "2025-02-11T15:24:13Z"
+        },
+        {
+          "id": "img24_2",
+          "url": "https://robohash.org/Location 24",
+          "caption": "Side angle",
+          "timestamp": "2025-02-11T14:55:13Z"
+        },
+        {
+          "id": "img24_3",
+          "url": "https://robohash.org/Location 24",
+          "caption": "Detailed view",
+          "timestamp": "2025-02-11T15:38:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot25",
+      "name": "Location 25",
+      "coordinates": {
+        "lat": -68.7854,
+        "lng": -38.2878
+      },
+      "status": "active",
+      "lastUpdated": "2025-01-31T15:46:13Z",
+      "measurements": {
+        "temperature": 13.2,
+        "humidity": 68,
+        "pressure": 1002.7
+      },
+      "metadata": {
+        "deviceId": "dev_337",
+        "installationDate": "2024-01-24",
+        "type": "outdoor"
+      },
+      "images": [
+        {
+          "id": "img25_1",
+          "url": "https://robohash.org/Location 25",
+          "caption": "Detailed view",
+          "timestamp": "2025-02-11T14:50:13Z"
+        },
+        {
+          "id": "img25_2",
+          "url": "https://robohash.org/Location 25",
+          "caption": "Side angle",
+          "timestamp": "2025-02-11T15:05:13Z"
+        },
+        {
+          "id": "img25_3",
+          "url": "https://robohash.org/Location 25",
+          "caption": "Overview shot",
+          "timestamp": "2025-02-11T14:47:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot26",
+      "name": "Location 26",
+      "coordinates": {
+        "lat": 11.8258,
+        "lng": -115.157
+      },
+      "status": "maintenance",
+      "lastUpdated": "2025-01-14T15:46:13Z",
+      "measurements": {
+        "temperature": 38.2,
+        "humidity": 80,
+        "pressure": 1016.5
+      },
+      "metadata": {
+        "deviceId": "dev_175",
+        "installationDate": "2024-01-20",
+        "type": "indoor"
+      },
+      "images": [
+        {
+          "id": "img26_1",
+          "url": "https://robohash.org/Location 26",
+          "caption": "Close-up detail",
+          "timestamp": "2025-02-11T15:24:13Z"
+        },
+        {
+          "id": "img26_2",
+          "url": "https://robohash.org/Location 26",
+          "caption": "Overview shot",
+          "timestamp": "2025-02-11T15:08:13Z"
+        },
+        {
+          "id": "img26_3",
+          "url": "https://robohash.org/Location 26",
+          "caption": "Close-up detail",
+          "timestamp": "2025-02-11T15:19:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot27",
+      "name": "Location 27",
+      "coordinates": {
+        "lat": 52.3384,
+        "lng": 108.3249
+      },
+      "status": "active",
+      "lastUpdated": "2025-02-08T15:46:13Z",
+      "measurements": {
+        "temperature": 23.3,
+        "humidity": 37,
+        "pressure": 1011.8
+      },
+      "metadata": {
+        "deviceId": "dev_223",
+        "installationDate": "2024-01-05",
+        "type": "outdoor"
+      },
+      "images": [
+        {
+          "id": "img27_1",
+          "url": "https://robohash.org/Location 27",
+          "caption": "Side angle",
+          "timestamp": "2025-02-11T15:20:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot28",
+      "name": "Location 28",
+      "coordinates": {
+        "lat": -76.919,
+        "lng": -61.8289
+      },
+      "status": "active",
+      "lastUpdated": "2025-02-06T15:46:13Z",
+      "measurements": {
+        "temperature": 25.4,
+        "humidity": 42,
+        "pressure": 1001.4
+      },
+      "metadata": {
+        "deviceId": "dev_197",
+        "installationDate": "2024-01-18",
+        "type": "outdoor"
+      },
+      "images": [
+        {
+          "id": "img28_1",
+          "url": "https://robohash.org/Location 28",
+          "caption": "Overview shot",
+          "timestamp": "2025-02-11T15:23:13Z"
+        },
+        {
+          "id": "img28_2",
+          "url": "https://robohash.org/Location 28",
+          "caption": "Close-up detail",
+          "timestamp": "2025-02-11T15:43:13Z"
+        },
+        {
+          "id": "img28_3",
+          "url": "https://robohash.org/Location 28",
+          "caption": "Detailed view",
+          "timestamp": "2025-02-11T15:46:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot29",
+      "name": "Location 29",
+      "coordinates": {
+        "lat": -55.0985,
+        "lng": 15.8056
+      },
+      "status": "maintenance",
+      "lastUpdated": "2025-02-07T15:46:13Z",
+      "measurements": {
+        "temperature": 16.6,
+        "humidity": 52,
+        "pressure": 1003.5
+      },
+      "metadata": {
+        "deviceId": "dev_655",
+        "installationDate": "2024-01-07",
+        "type": "outdoor"
+      },
+      "images": [
+        {
+          "id": "img29_1",
+          "url": "https://robohash.org/Location 29",
+          "caption": "Close-up detail",
+          "timestamp": "2025-02-11T15:23:13Z"
+        },
+        {
+          "id": "img29_2",
+          "url": "https://robohash.org/Location 29",
+          "caption": "Side angle",
+          "timestamp": "2025-02-11T14:51:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot30",
+      "name": "Location 30",
+      "coordinates": {
+        "lat": 21.5855,
+        "lng": 68.5266
+      },
+      "status": "maintenance",
+      "lastUpdated": "2025-01-21T15:46:13Z",
+      "measurements": {
+        "temperature": 23.2,
+        "humidity": 87,
+        "pressure": 1013.2
+      },
+      "metadata": {
+        "deviceId": "dev_294",
+        "installationDate": "2024-01-03",
+        "type": "indoor"
+      },
+      "images": [
+        {
+          "id": "img30_1",
+          "url": "https://robohash.org/Location 30",
+          "caption": "Side angle",
+          "timestamp": "2025-02-11T15:19:13Z"
+        },
+        {
+          "id": "img30_2",
+          "url": "https://robohash.org/Location 30",
+          "caption": "Close-up detail",
+          "timestamp": "2025-02-11T15:34:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot31",
+      "name": "Location 31",
+      "coordinates": {
+        "lat": 14.1253,
+        "lng": 5.8349
+      },
+      "status": "maintenance",
+      "lastUpdated": "2025-02-01T15:46:13Z",
+      "measurements": {
+        "temperature": 37.6,
+        "humidity": 85,
+        "pressure": 1010.3
+      },
+      "metadata": {
+        "deviceId": "dev_292",
+        "installationDate": "2024-01-28",
+        "type": "indoor"
+      },
+      "images": [
+        {
+          "id": "img31_1",
+          "url": "https://robohash.org/Location 31",
+          "caption": "Main view",
+          "timestamp": "2025-02-11T15:15:13Z"
+        },
+        {
+          "id": "img31_2",
+          "url": "https://robohash.org/Location 31",
+          "caption": "Detailed view",
+          "timestamp": "2025-02-11T15:02:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot32",
+      "name": "Location 32",
+      "coordinates": {
+        "lat": 89.4405,
+        "lng": -107.5816
+      },
+      "status": "active",
+      "lastUpdated": "2025-02-02T15:46:13Z",
+      "measurements": {
+        "temperature": 32.0,
+        "humidity": 89,
+        "pressure": 1000.9
+      },
+      "metadata": {
+        "deviceId": "dev_661",
+        "installationDate": "2024-01-26",
+        "type": "outdoor"
+      },
+      "images": [
+        {
+          "id": "img32_1",
+          "url": "https://robohash.org/Location 32",
+          "caption": "Main view",
+          "timestamp": "2025-02-11T15:08:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot33",
+      "name": "Location 33",
+      "coordinates": {
+        "lat": -64.8219,
+        "lng": -76.8418
+      },
+      "status": "active",
+      "lastUpdated": "2025-01-24T15:46:13Z",
+      "measurements": {
+        "temperature": 33.9,
+        "humidity": 68,
+        "pressure": 1010.5
+      },
+      "metadata": {
+        "deviceId": "dev_844",
+        "installationDate": "2024-01-29",
+        "type": "outdoor"
+      },
+      "images": [
+        {
+          "id": "img33_1",
+          "url": "https://robohash.org/Location 33",
+          "caption": "Detailed view",
+          "timestamp": "2025-02-11T15:24:13Z"
+        },
+        {
+          "id": "img33_2",
+          "url": "https://robohash.org/Location 33",
+          "caption": "Main view",
+          "timestamp": "2025-02-11T14:58:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot34",
+      "name": "Location 34",
+      "coordinates": {
+        "lat": -29.729,
+        "lng": -33.8928
+      },
+      "status": "maintenance",
+      "lastUpdated": "2025-01-25T15:46:13Z",
+      "measurements": {
+        "temperature": 32.5,
+        "humidity": 85,
+        "pressure": 1017.6
+      },
+      "metadata": {
+        "deviceId": "dev_869",
+        "installationDate": "2024-01-16",
+        "type": "outdoor"
+      },
+      "images": [
+        {
+          "id": "img34_1",
+          "url": "https://robohash.org/Location 34",
+          "caption": "Overview shot",
+          "timestamp": "2025-02-11T15:33:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot35",
+      "name": "Location 35",
+      "coordinates": {
+        "lat": -50.0797,
+        "lng": 94.4937
+      },
+      "status": "active",
+      "lastUpdated": "2025-02-02T15:46:13Z",
+      "measurements": {
+        "temperature": 25.3,
+        "humidity": 87,
+        "pressure": 1010.6
+      },
+      "metadata": {
+        "deviceId": "dev_857",
+        "installationDate": "2024-01-18",
+        "type": "outdoor"
+      },
+      "images": [
+        {
+          "id": "img35_1",
+          "url": "https://robohash.org/Location 35",
+          "caption": "Detailed view",
+          "timestamp": "2025-02-11T15:13:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot36",
+      "name": "Location 36",
+      "coordinates": {
+        "lat": -73.8938,
+        "lng": -121.9868
+      },
+      "status": "active",
+      "lastUpdated": "2025-01-23T15:46:13Z",
+      "measurements": {
+        "temperature": 10.7,
+        "humidity": 80,
+        "pressure": 1002.9
+      },
+      "metadata": {
+        "deviceId": "dev_762",
+        "installationDate": "2024-01-07",
+        "type": "indoor"
+      },
+      "images": [
+        {
+          "id": "img36_1",
+          "url": "https://robohash.org/Location 36",
+          "caption": "Main view",
+          "timestamp": "2025-02-11T15:15:13Z"
+        },
+        {
+          "id": "img36_2",
+          "url": "https://robohash.org/Location 36",
+          "caption": "Overview shot",
+          "timestamp": "2025-02-11T15:45:13Z"
+        },
+        {
+          "id": "img36_3",
+          "url": "https://robohash.org/Location 36",
+          "caption": "Detailed view",
+          "timestamp": "2025-02-11T15:39:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot37",
+      "name": "Location 37",
+      "coordinates": {
+        "lat": 6.233,
+        "lng": -102.7987
+      },
+      "status": "maintenance",
+      "lastUpdated": "2025-01-13T15:46:13Z",
+      "measurements": {
+        "temperature": 21.0,
+        "humidity": 39,
+        "pressure": 1017.4
+      },
+      "metadata": {
+        "deviceId": "dev_909",
+        "installationDate": "2024-01-12",
+        "type": "outdoor"
+      },
+      "images": [
+        {
+          "id": "img37_1",
+          "url": "https://robohash.org/Location 37",
+          "caption": "Close-up detail",
+          "timestamp": "2025-02-11T15:04:13Z"
+        },
+        {
+          "id": "img37_2",
+          "url": "https://robohash.org/Location 37",
+          "caption": "Detailed view",
+          "timestamp": "2025-02-11T14:59:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot38",
+      "name": "Location 38",
+      "coordinates": {
+        "lat": 7.1562,
+        "lng": -54.6034
+      },
+      "status": "maintenance",
+      "lastUpdated": "2025-01-30T15:46:13Z",
+      "measurements": {
+        "temperature": 19.3,
+        "humidity": 87,
+        "pressure": 1014.7
+      },
+      "metadata": {
+        "deviceId": "dev_898",
+        "installationDate": "2024-01-02",
+        "type": "indoor"
+      },
+      "images": [
+        {
+          "id": "img38_1",
+          "url": "https://robohash.org/Location 38",
+          "caption": "Detailed view",
+          "timestamp": "2025-02-11T14:57:13Z"
+        },
+        {
+          "id": "img38_2",
+          "url": "https://robohash.org/Location 38",
+          "caption": "Overview shot",
+          "timestamp": "2025-02-11T15:30:13Z"
+        },
+        {
+          "id": "img38_3",
+          "url": "https://robohash.org/Location 38",
+          "caption": "Overview shot",
+          "timestamp": "2025-02-11T15:32:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot39",
+      "name": "Location 39",
+      "coordinates": {
+        "lat": -54.5681,
+        "lng": 41.7027
+      },
+      "status": "maintenance",
+      "lastUpdated": "2025-01-29T15:46:13Z",
+      "measurements": {
+        "temperature": 29.4,
+        "humidity": 65,
+        "pressure": 1006.5
+      },
+      "metadata": {
+        "deviceId": "dev_964",
+        "installationDate": "2024-01-04",
+        "type": "outdoor"
+      },
+      "images": [
+        {
+          "id": "img39_1",
+          "url": "https://robohash.org/Location 39",
+          "caption": "Main view",
+          "timestamp": "2025-02-11T15:32:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot40",
+      "name": "Location 40",
+      "coordinates": {
+        "lat": 1.3407,
+        "lng": -28.0746
+      },
+      "status": "maintenance",
+      "lastUpdated": "2025-01-15T15:46:13Z",
+      "measurements": {
+        "temperature": 13.5,
+        "humidity": 69,
+        "pressure": 1003.6
+      },
+      "metadata": {
+        "deviceId": "dev_125",
+        "installationDate": "2024-01-17",
+        "type": "outdoor"
+      },
+      "images": [
+        {
+          "id": "img40_1",
+          "url": "https://robohash.org/Location 40",
+          "caption": "Close-up detail",
+          "timestamp": "2025-02-11T15:38:13Z"
+        },
+        {
+          "id": "img40_2",
+          "url": "https://robohash.org/Location 40",
+          "caption": "Overview shot",
+          "timestamp": "2025-02-11T15:32:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot41",
+      "name": "Location 41",
+      "coordinates": {
+        "lat": -12.8019,
+        "lng": 62.2987
+      },
+      "status": "maintenance",
+      "lastUpdated": "2025-02-01T15:46:13Z",
+      "measurements": {
+        "temperature": 38.6,
+        "humidity": 30,
+        "pressure": 1019.8
+      },
+      "metadata": {
+        "deviceId": "dev_562",
+        "installationDate": "2024-01-16",
+        "type": "outdoor"
+      },
+      "images": [
+        {
+          "id": "img41_1",
+          "url": "https://robohash.org/Location 41",
+          "caption": "Close-up detail",
+          "timestamp": "2025-02-11T15:40:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot42",
+      "name": "Location 42",
+      "coordinates": {
+        "lat": -12.0899,
+        "lng": -133.6399
+      },
+      "status": "active",
+      "lastUpdated": "2025-02-10T15:46:13Z",
+      "measurements": {
+        "temperature": 27.5,
+        "humidity": 63,
+        "pressure": 1009.1
+      },
+      "metadata": {
+        "deviceId": "dev_364",
+        "installationDate": "2024-01-23",
+        "type": "outdoor"
+      },
+      "images": [
+        {
+          "id": "img42_1",
+          "url": "https://robohash.org/Location 42",
+          "caption": "Side angle",
+          "timestamp": "2025-02-11T15:12:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot43",
+      "name": "Location 43",
+      "coordinates": {
+        "lat": 24.973,
+        "lng": 12.1141
+      },
+      "status": "maintenance",
+      "lastUpdated": "2025-02-06T15:46:13Z",
+      "measurements": {
+        "temperature": 18.0,
+        "humidity": 56,
+        "pressure": 1001.5
+      },
+      "metadata": {
+        "deviceId": "dev_922",
+        "installationDate": "2024-01-17",
+        "type": "outdoor"
+      },
+      "images": [
+        {
+          "id": "img43_1",
+          "url": "https://robohash.org/Location 43",
+          "caption": "Main view",
+          "timestamp": "2025-02-11T15:19:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot44",
+      "name": "Location 44",
+      "coordinates": {
+        "lat": 87.844,
+        "lng": 7.604
+      },
+      "status": "maintenance",
+      "lastUpdated": "2025-02-10T15:46:13Z",
+      "measurements": {
+        "temperature": 16.1,
+        "humidity": 44,
+        "pressure": 1018.6
+      },
+      "metadata": {
+        "deviceId": "dev_756",
+        "installationDate": "2024-01-23",
+        "type": "outdoor"
+      },
+      "images": [
+        {
+          "id": "img44_1",
+          "url": "https://robohash.org/Location 44",
+          "caption": "Detailed view",
+          "timestamp": "2025-02-11T15:23:13Z"
+        },
+        {
+          "id": "img44_2",
+          "url": "https://robohash.org/Location 44",
+          "caption": "Overview shot",
+          "timestamp": "2025-02-11T15:20:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot45",
+      "name": "Location 45",
+      "coordinates": {
+        "lat": -50.5271,
+        "lng": 145.8067
+      },
+      "status": "maintenance",
+      "lastUpdated": "2025-02-05T15:46:13Z",
+      "measurements": {
+        "temperature": 34.3,
+        "humidity": 82,
+        "pressure": 1005.7
+      },
+      "metadata": {
+        "deviceId": "dev_716",
+        "installationDate": "2024-01-11",
+        "type": "outdoor"
+      },
+      "images": [
+        {
+          "id": "img45_1",
+          "url": "https://robohash.org/Location 45",
+          "caption": "Close-up detail",
+          "timestamp": "2025-02-11T14:54:13Z"
+        },
+        {
+          "id": "img45_2",
+          "url": "https://robohash.org/Location 45",
+          "caption": "Main view",
+          "timestamp": "2025-02-11T15:03:13Z"
+        },
+        {
+          "id": "img45_3",
+          "url": "https://robohash.org/Location 45",
+          "caption": "Detailed view",
+          "timestamp": "2025-02-11T15:43:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot46",
+      "name": "Location 46",
+      "coordinates": {
+        "lat": -48.7816,
+        "lng": -169.7875
+      },
+      "status": "active",
+      "lastUpdated": "2025-01-26T15:46:13Z",
+      "measurements": {
+        "temperature": 21.9,
+        "humidity": 35,
+        "pressure": 1008.3
+      },
+      "metadata": {
+        "deviceId": "dev_460",
+        "installationDate": "2024-01-26",
+        "type": "outdoor"
+      },
+      "images": [
+        {
+          "id": "img46_1",
+          "url": "https://robohash.org/Location 46",
+          "caption": "Overview shot",
+          "timestamp": "2025-02-11T15:17:13Z"
+        },
+        {
+          "id": "img46_2",
+          "url": "https://robohash.org/Location 46",
+          "caption": "Side angle",
+          "timestamp": "2025-02-11T15:23:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot47",
+      "name": "Location 47",
+      "coordinates": {
+        "lat": 58.9752,
+        "lng": 155.7497
+      },
+      "status": "maintenance",
+      "lastUpdated": "2025-01-17T15:46:13Z",
+      "measurements": {
+        "temperature": 19.2,
+        "humidity": 40,
+        "pressure": 1006.1
+      },
+      "metadata": {
+        "deviceId": "dev_403",
+        "installationDate": "2024-01-26",
+        "type": "indoor"
+      },
+      "images": [
+        {
+          "id": "img47_1",
+          "url": "https://robohash.org/Location 47",
+          "caption": "Overview shot",
+          "timestamp": "2025-02-11T15:38:13Z"
+        },
+        {
+          "id": "img47_2",
+          "url": "https://robohash.org/Location 47",
+          "caption": "Side angle",
+          "timestamp": "2025-02-11T15:44:13Z"
+        },
+        {
+          "id": "img47_3",
+          "url": "https://robohash.org/Location 47",
+          "caption": "Detailed view",
+          "timestamp": "2025-02-11T15:38:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot48",
+      "name": "Location 48",
+      "coordinates": {
+        "lat": -72.4101,
+        "lng": 48.0182
+      },
+      "status": "maintenance",
+      "lastUpdated": "2025-01-12T15:46:13Z",
+      "measurements": {
+        "temperature": 17.4,
+        "humidity": 61,
+        "pressure": 1017.8
+      },
+      "metadata": {
+        "deviceId": "dev_141",
+        "installationDate": "2024-01-21",
+        "type": "outdoor"
+      },
+      "images": [
+        {
+          "id": "img48_1",
+          "url": "https://robohash.org/Location 48",
+          "caption": "Close-up detail",
+          "timestamp": "2025-02-11T15:30:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot49",
+      "name": "Location 49",
+      "coordinates": {
+        "lat": -16.1719,
+        "lng": -124.3637
+      },
+      "status": "maintenance",
+      "lastUpdated": "2025-01-23T15:46:13Z",
+      "measurements": {
+        "temperature": 20.1,
+        "humidity": 74,
+        "pressure": 1016.4
+      },
+      "metadata": {
+        "deviceId": "dev_889",
+        "installationDate": "2024-01-25",
+        "type": "indoor"
+      },
+      "images": [
+        {
+          "id": "img49_1",
+          "url": "https://robohash.org/Location 49",
+          "caption": "Side angle",
+          "timestamp": "2025-02-11T15:19:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot50",
+      "name": "Location 50",
+      "coordinates": {
+        "lat": -26.5631,
+        "lng": -88.2706
+      },
+      "status": "active",
+      "lastUpdated": "2025-01-16T15:46:13Z",
+      "measurements": {
+        "temperature": 18.0,
+        "humidity": 62,
+        "pressure": 1015.2
+      },
+      "metadata": {
+        "deviceId": "dev_585",
+        "installationDate": "2024-01-08",
+        "type": "indoor"
+      },
+      "images": [
+        {
+          "id": "img50_1",
+          "url": "https://robohash.org/Location 50",
+          "caption": "Detailed view",
+          "timestamp": "2025-02-11T15:23:13Z"
+        },
+        {
+          "id": "img50_2",
+          "url": "https://robohash.org/Location 50",
+          "caption": "Side angle",
+          "timestamp": "2025-02-11T15:44:13Z"
+        },
+        {
+          "id": "img50_3",
+          "url": "https://robohash.org/Location 50",
+          "caption": "Detailed view",
+          "timestamp": "2025-02-11T14:55:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot51",
+      "name": "Location 51",
+      "coordinates": {
+        "lat": -68.2261,
+        "lng": 130.9317
+      },
+      "status": "active",
+      "lastUpdated": "2025-01-16T15:46:13Z",
+      "measurements": {
+        "temperature": 22.1,
+        "humidity": 89,
+        "pressure": 1003.2
+      },
+      "metadata": {
+        "deviceId": "dev_631",
+        "installationDate": "2024-01-16",
+        "type": "outdoor"
+      },
+      "images": [
+        {
+          "id": "img51_1",
+          "url": "https://robohash.org/Location 51",
+          "caption": "Close-up detail",
+          "timestamp": "2025-02-11T15:06:13Z"
+        },
+        {
+          "id": "img51_2",
+          "url": "https://robohash.org/Location 51",
+          "caption": "Side angle",
+          "timestamp": "2025-02-11T14:46:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot52",
+      "name": "Location 52",
+      "coordinates": {
+        "lat": -88.3919,
+        "lng": 144.7331
+      },
+      "status": "maintenance",
+      "lastUpdated": "2025-01-18T15:46:13Z",
+      "measurements": {
+        "temperature": 30.7,
+        "humidity": 62,
+        "pressure": 1000.3
+      },
+      "metadata": {
+        "deviceId": "dev_770",
+        "installationDate": "2024-01-28",
+        "type": "indoor"
+      },
+      "images": [
+        {
+          "id": "img52_1",
+          "url": "https://robohash.org/Location 52",
+          "caption": "Overview shot",
+          "timestamp": "2025-02-11T15:42:13Z"
+        },
+        {
+          "id": "img52_2",
+          "url": "https://robohash.org/Location 52",
+          "caption": "Close-up detail",
+          "timestamp": "2025-02-11T15:46:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot53",
+      "name": "Location 53",
+      "coordinates": {
+        "lat": -1.5207,
+        "lng": -13.242
+      },
+      "status": "active",
+      "lastUpdated": "2025-01-15T15:46:13Z",
+      "measurements": {
+        "temperature": 23.1,
+        "humidity": 46,
+        "pressure": 1002.1
+      },
+      "metadata": {
+        "deviceId": "dev_781",
+        "installationDate": "2024-01-04",
+        "type": "indoor"
+      },
+      "images": [
+        {
+          "id": "img53_1",
+          "url": "https://robohash.org/Location 53",
+          "caption": "Main view",
+          "timestamp": "2025-02-11T15:46:13Z"
+        },
+        {
+          "id": "img53_2",
+          "url": "https://robohash.org/Location 53",
+          "caption": "Close-up detail",
+          "timestamp": "2025-02-11T15:13:13Z"
+        },
+        {
+          "id": "img53_3",
+          "url": "https://robohash.org/Location 53",
+          "caption": "Side angle",
+          "timestamp": "2025-02-11T15:33:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot54",
+      "name": "Location 54",
+      "coordinates": {
+        "lat": 30.5245,
+        "lng": 113.2004
+      },
+      "status": "active",
+      "lastUpdated": "2025-01-23T15:46:13Z",
+      "measurements": {
+        "temperature": 17.8,
+        "humidity": 31,
+        "pressure": 1008.3
+      },
+      "metadata": {
+        "deviceId": "dev_875",
+        "installationDate": "2024-01-31",
+        "type": "indoor"
+      },
+      "images": [
+        {
+          "id": "img54_1",
+          "url": "https://robohash.org/Location 54",
+          "caption": "Side angle",
+          "timestamp": "2025-02-11T15:44:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot55",
+      "name": "Location 55",
+      "coordinates": {
+        "lat": 26.4878,
+        "lng": -136.9437
+      },
+      "status": "maintenance",
+      "lastUpdated": "2025-02-08T15:46:13Z",
+      "measurements": {
+        "temperature": 16.4,
+        "humidity": 86,
+        "pressure": 1003.6
+      },
+      "metadata": {
+        "deviceId": "dev_472",
+        "installationDate": "2024-01-30",
+        "type": "indoor"
+      },
+      "images": [
+        {
+          "id": "img55_1",
+          "url": "https://robohash.org/Location 55",
+          "caption": "Side angle",
+          "timestamp": "2025-02-11T14:51:13Z"
+        },
+        {
+          "id": "img55_2",
+          "url": "https://robohash.org/Location 55",
+          "caption": "Main view",
+          "timestamp": "2025-02-11T15:25:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot56",
+      "name": "Location 56",
+      "coordinates": {
+        "lat": -49.3639,
+        "lng": 110.3468
+      },
+      "status": "active",
+      "lastUpdated": "2025-01-31T15:46:13Z",
+      "measurements": {
+        "temperature": 15.1,
+        "humidity": 86,
+        "pressure": 1019.9
+      },
+      "metadata": {
+        "deviceId": "dev_759",
+        "installationDate": "2024-01-06",
+        "type": "indoor"
+      },
+      "images": [
+        {
+          "id": "img56_1",
+          "url": "https://robohash.org/Location 56",
+          "caption": "Overview shot",
+          "timestamp": "2025-02-11T15:46:13Z"
+        },
+        {
+          "id": "img56_2",
+          "url": "https://robohash.org/Location 56",
+          "caption": "Side angle",
+          "timestamp": "2025-02-11T15:13:13Z"
+        },
+        {
+          "id": "img56_3",
+          "url": "https://robohash.org/Location 56",
+          "caption": "Close-up detail",
+          "timestamp": "2025-02-11T15:13:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot57",
+      "name": "Location 57",
+      "coordinates": {
+        "lat": -22.6053,
+        "lng": -148.3195
+      },
+      "status": "maintenance",
+      "lastUpdated": "2025-01-24T15:46:13Z",
+      "measurements": {
+        "temperature": 35.4,
+        "humidity": 76,
+        "pressure": 1001.3
+      },
+      "metadata": {
+        "deviceId": "dev_654",
+        "installationDate": "2024-01-18",
+        "type": "outdoor"
+      },
+      "images": [
+        {
+          "id": "img57_1",
+          "url": "https://robohash.org/Location 57",
+          "caption": "Side angle",
+          "timestamp": "2025-02-11T15:44:13Z"
+        },
+        {
+          "id": "img57_2",
+          "url": "https://robohash.org/Location 57",
+          "caption": "Main view",
+          "timestamp": "2025-02-11T15:36:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot58",
+      "name": "Location 58",
+      "coordinates": {
+        "lat": -73.4017,
+        "lng": 93.5169
+      },
+      "status": "active",
+      "lastUpdated": "2025-01-22T15:46:13Z",
+      "measurements": {
+        "temperature": 38.3,
+        "humidity": 58,
+        "pressure": 1006.1
+      },
+      "metadata": {
+        "deviceId": "dev_135",
+        "installationDate": "2024-01-14",
+        "type": "indoor"
+      },
+      "images": [
+        {
+          "id": "img58_1",
+          "url": "https://robohash.org/Location 58",
+          "caption": "Main view",
+          "timestamp": "2025-02-11T15:02:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot59",
+      "name": "Location 59",
+      "coordinates": {
+        "lat": 3.5467,
+        "lng": 155.462
+      },
+      "status": "active",
+      "lastUpdated": "2025-01-18T15:46:13Z",
+      "measurements": {
+        "temperature": 28.4,
+        "humidity": 62,
+        "pressure": 1006.8
+      },
+      "metadata": {
+        "deviceId": "dev_721",
+        "installationDate": "2024-01-02",
+        "type": "outdoor"
+      },
+      "images": [
+        {
+          "id": "img59_1",
+          "url": "https://robohash.org/Location 59",
+          "caption": "Overview shot",
+          "timestamp": "2025-02-11T15:43:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot60",
+      "name": "Location 60",
+      "coordinates": {
+        "lat": -31.134,
+        "lng": 129.8964
+      },
+      "status": "active",
+      "lastUpdated": "2025-01-22T15:46:13Z",
+      "measurements": {
+        "temperature": 29.1,
+        "humidity": 49,
+        "pressure": 1004.4
+      },
+      "metadata": {
+        "deviceId": "dev_971",
+        "installationDate": "2024-01-27",
+        "type": "outdoor"
+      },
+      "images": [
+        {
+          "id": "img60_1",
+          "url": "https://robohash.org/Location 60",
+          "caption": "Close-up detail",
+          "timestamp": "2025-02-11T15:09:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot61",
+      "name": "Location 61",
+      "coordinates": {
+        "lat": -62.7783,
+        "lng": -40.6946
+      },
+      "status": "active",
+      "lastUpdated": "2025-01-20T15:46:13Z",
+      "measurements": {
+        "temperature": 19.1,
+        "humidity": 85,
+        "pressure": 1019.3
+      },
+      "metadata": {
+        "deviceId": "dev_984",
+        "installationDate": "2024-01-06",
+        "type": "indoor"
+      },
+      "images": [
+        {
+          "id": "img61_1",
+          "url": "https://robohash.org/Location 61",
+          "caption": "Main view",
+          "timestamp": "2025-02-11T15:00:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot62",
+      "name": "Location 62",
+      "coordinates": {
+        "lat": 67.9392,
+        "lng": -96.3185
+      },
+      "status": "active",
+      "lastUpdated": "2025-02-04T15:46:13Z",
+      "measurements": {
+        "temperature": 23.0,
+        "humidity": 67,
+        "pressure": 1006.7
+      },
+      "metadata": {
+        "deviceId": "dev_197",
+        "installationDate": "2024-01-23",
+        "type": "indoor"
+      },
+      "images": [
+        {
+          "id": "img62_1",
+          "url": "https://robohash.org/Location 62",
+          "caption": "Side angle",
+          "timestamp": "2025-02-11T14:51:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot63",
+      "name": "Location 63",
+      "coordinates": {
+        "lat": 9.4269,
+        "lng": 79.7151
+      },
+      "status": "maintenance",
+      "lastUpdated": "2025-01-15T15:46:13Z",
+      "measurements": {
+        "temperature": 29.3,
+        "humidity": 34,
+        "pressure": 1005.3
+      },
+      "metadata": {
+        "deviceId": "dev_655",
+        "installationDate": "2024-01-20",
+        "type": "indoor"
+      },
+      "images": [
+        {
+          "id": "img63_1",
+          "url": "https://robohash.org/Location 63",
+          "caption": "Main view",
+          "timestamp": "2025-02-11T14:50:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot64",
+      "name": "Location 64",
+      "coordinates": {
+        "lat": 43.7977,
+        "lng": 120.9586
+      },
+      "status": "maintenance",
+      "lastUpdated": "2025-02-07T15:46:13Z",
+      "measurements": {
+        "temperature": 16.6,
+        "humidity": 36,
+        "pressure": 1006.0
+      },
+      "metadata": {
+        "deviceId": "dev_966",
+        "installationDate": "2024-01-17",
+        "type": "outdoor"
+      },
+      "images": [
+        {
+          "id": "img64_1",
+          "url": "https://robohash.org/Location 64",
+          "caption": "Close-up detail",
+          "timestamp": "2025-02-11T15:12:13Z"
+        },
+        {
+          "id": "img64_2",
+          "url": "https://robohash.org/Location 64",
+          "caption": "Close-up detail",
+          "timestamp": "2025-02-11T15:07:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot65",
+      "name": "Location 65",
+      "coordinates": {
+        "lat": -9.6166,
+        "lng": 10.8199
+      },
+      "status": "active",
+      "lastUpdated": "2025-01-16T15:46:13Z",
+      "measurements": {
+        "temperature": 39.5,
+        "humidity": 38,
+        "pressure": 1000.7
+      },
+      "metadata": {
+        "deviceId": "dev_399",
+        "installationDate": "2024-01-31",
+        "type": "outdoor"
+      },
+      "images": [
+        {
+          "id": "img65_1",
+          "url": "https://robohash.org/Location 65",
+          "caption": "Overview shot",
+          "timestamp": "2025-02-11T15:21:13Z"
+        },
+        {
+          "id": "img65_2",
+          "url": "https://robohash.org/Location 65",
+          "caption": "Detailed view",
+          "timestamp": "2025-02-11T15:29:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot66",
+      "name": "Location 66",
+      "coordinates": {
+        "lat": 19.6542,
+        "lng": 69.2717
+      },
+      "status": "maintenance",
+      "lastUpdated": "2025-01-13T15:46:13Z",
+      "measurements": {
+        "temperature": 29.0,
+        "humidity": 89,
+        "pressure": 1017.4
+      },
+      "metadata": {
+        "deviceId": "dev_961",
+        "installationDate": "2024-01-10",
+        "type": "outdoor"
+      },
+      "images": [
+        {
+          "id": "img66_1",
+          "url": "https://robohash.org/Location 66",
+          "caption": "Side angle",
+          "timestamp": "2025-02-11T14:52:13Z"
+        },
+        {
+          "id": "img66_2",
+          "url": "https://robohash.org/Location 66",
+          "caption": "Side angle",
+          "timestamp": "2025-02-11T14:53:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot67",
+      "name": "Location 67",
+      "coordinates": {
+        "lat": 64.7852,
+        "lng": -70.0644
+      },
+      "status": "maintenance",
+      "lastUpdated": "2025-01-24T15:46:13Z",
+      "measurements": {
+        "temperature": 14.9,
+        "humidity": 61,
+        "pressure": 1007.2
+      },
+      "metadata": {
+        "deviceId": "dev_829",
+        "installationDate": "2024-01-12",
+        "type": "outdoor"
+      },
+      "images": [
+        {
+          "id": "img67_1",
+          "url": "https://robohash.org/Location 67",
+          "caption": "Side angle",
+          "timestamp": "2025-02-11T14:47:13Z"
+        },
+        {
+          "id": "img67_2",
+          "url": "https://robohash.org/Location 67",
+          "caption": "Side angle",
+          "timestamp": "2025-02-11T15:35:13Z"
+        },
+        {
+          "id": "img67_3",
+          "url": "https://robohash.org/Location 67",
+          "caption": "Overview shot",
+          "timestamp": "2025-02-11T15:41:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot68",
+      "name": "Location 68",
+      "coordinates": {
+        "lat": -22.6005,
+        "lng": 94.1982
+      },
+      "status": "maintenance",
+      "lastUpdated": "2025-01-22T15:46:13Z",
+      "measurements": {
+        "temperature": 19.4,
+        "humidity": 90,
+        "pressure": 1004.1
+      },
+      "metadata": {
+        "deviceId": "dev_520",
+        "installationDate": "2024-01-29",
+        "type": "indoor"
+      },
+      "images": [
+        {
+          "id": "img68_1",
+          "url": "https://robohash.org/Location 68",
+          "caption": "Detailed view",
+          "timestamp": "2025-02-11T15:31:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot69",
+      "name": "Location 69",
+      "coordinates": {
+        "lat": -30.6464,
+        "lng": -169.2561
+      },
+      "status": "maintenance",
+      "lastUpdated": "2025-01-22T15:46:13Z",
+      "measurements": {
+        "temperature": 24.3,
+        "humidity": 67,
+        "pressure": 1003.4
+      },
+      "metadata": {
+        "deviceId": "dev_645",
+        "installationDate": "2024-01-28",
+        "type": "outdoor"
+      },
+      "images": [
+        {
+          "id": "img69_1",
+          "url": "https://robohash.org/Location 69",
+          "caption": "Close-up detail",
+          "timestamp": "2025-02-11T15:00:13Z"
+        },
+        {
+          "id": "img69_2",
+          "url": "https://robohash.org/Location 69",
+          "caption": "Close-up detail",
+          "timestamp": "2025-02-11T15:15:13Z"
+        },
+        {
+          "id": "img69_3",
+          "url": "https://robohash.org/Location 69",
+          "caption": "Main view",
+          "timestamp": "2025-02-11T14:59:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot70",
+      "name": "Location 70",
+      "coordinates": {
+        "lat": -62.0573,
+        "lng": 146.6775
+      },
+      "status": "active",
+      "lastUpdated": "2025-02-09T15:46:13Z",
+      "measurements": {
+        "temperature": 36.3,
+        "humidity": 51,
+        "pressure": 1008.3
+      },
+      "metadata": {
+        "deviceId": "dev_893",
+        "installationDate": "2024-01-25",
+        "type": "outdoor"
+      },
+      "images": [
+        {
+          "id": "img70_1",
+          "url": "https://robohash.org/Location 70",
+          "caption": "Close-up detail",
+          "timestamp": "2025-02-11T15:05:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot71",
+      "name": "Location 71",
+      "coordinates": {
+        "lat": 67.5598,
+        "lng": -13.0392
+      },
+      "status": "maintenance",
+      "lastUpdated": "2025-02-05T15:46:13Z",
+      "measurements": {
+        "temperature": 30.1,
+        "humidity": 45,
+        "pressure": 1015.9
+      },
+      "metadata": {
+        "deviceId": "dev_782",
+        "installationDate": "2024-01-30",
+        "type": "indoor"
+      },
+      "images": [
+        {
+          "id": "img71_1",
+          "url": "https://robohash.org/Location 71",
+          "caption": "Overview shot",
+          "timestamp": "2025-02-11T15:22:13Z"
+        },
+        {
+          "id": "img71_2",
+          "url": "https://robohash.org/Location 71",
+          "caption": "Overview shot",
+          "timestamp": "2025-02-11T15:38:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot72",
+      "name": "Location 72",
+      "coordinates": {
+        "lat": 9.9995,
+        "lng": 173.0868
+      },
+      "status": "maintenance",
+      "lastUpdated": "2025-01-17T15:46:13Z",
+      "measurements": {
+        "temperature": 36.7,
+        "humidity": 47,
+        "pressure": 1014.3
+      },
+      "metadata": {
+        "deviceId": "dev_144",
+        "installationDate": "2024-01-21",
+        "type": "outdoor"
+      },
+      "images": [
+        {
+          "id": "img72_1",
+          "url": "https://robohash.org/Location 72",
+          "caption": "Close-up detail",
+          "timestamp": "2025-02-11T14:46:13Z"
+        },
+        {
+          "id": "img72_2",
+          "url": "https://robohash.org/Location 72",
+          "caption": "Detailed view",
+          "timestamp": "2025-02-11T15:42:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot73",
+      "name": "Location 73",
+      "coordinates": {
+        "lat": -79.324,
+        "lng": 23.0741
+      },
+      "status": "maintenance",
+      "lastUpdated": "2025-01-22T15:46:13Z",
+      "measurements": {
+        "temperature": 31.6,
+        "humidity": 36,
+        "pressure": 1018.3
+      },
+      "metadata": {
+        "deviceId": "dev_636",
+        "installationDate": "2024-01-28",
+        "type": "indoor"
+      },
+      "images": [
+        {
+          "id": "img73_1",
+          "url": "https://robohash.org/Location 73",
+          "caption": "Main view",
+          "timestamp": "2025-02-11T15:31:13Z"
+        },
+        {
+          "id": "img73_2",
+          "url": "https://robohash.org/Location 73",
+          "caption": "Overview shot",
+          "timestamp": "2025-02-11T15:37:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot74",
+      "name": "Location 74",
+      "coordinates": {
+        "lat": 13.6045,
+        "lng": -68.0244
+      },
+      "status": "maintenance",
+      "lastUpdated": "2025-01-18T15:46:13Z",
+      "measurements": {
+        "temperature": 20.0,
+        "humidity": 83,
+        "pressure": 1014.4
+      },
+      "metadata": {
+        "deviceId": "dev_667",
+        "installationDate": "2024-01-05",
+        "type": "indoor"
+      },
+      "images": [
+        {
+          "id": "img74_1",
+          "url": "https://robohash.org/Location 74",
+          "caption": "Overview shot",
+          "timestamp": "2025-02-11T15:15:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot75",
+      "name": "Location 75",
+      "coordinates": {
+        "lat": -59.1328,
+        "lng": 47.9318
+      },
+      "status": "active",
+      "lastUpdated": "2025-01-26T15:46:13Z",
+      "measurements": {
+        "temperature": 29.7,
+        "humidity": 55,
+        "pressure": 1016.0
+      },
+      "metadata": {
+        "deviceId": "dev_220",
+        "installationDate": "2024-01-22",
+        "type": "indoor"
+      },
+      "images": [
+        {
+          "id": "img75_1",
+          "url": "https://robohash.org/Location 75",
+          "caption": "Detailed view",
+          "timestamp": "2025-02-11T15:10:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot76",
+      "name": "Location 76",
+      "coordinates": {
+        "lat": -47.3872,
+        "lng": -119.5841
+      },
+      "status": "maintenance",
+      "lastUpdated": "2025-01-21T15:46:13Z",
+      "measurements": {
+        "temperature": 14.6,
+        "humidity": 31,
+        "pressure": 1014.0
+      },
+      "metadata": {
+        "deviceId": "dev_948",
+        "installationDate": "2024-01-20",
+        "type": "indoor"
+      },
+      "images": [
+        {
+          "id": "img76_1",
+          "url": "https://robohash.org/Location 76",
+          "caption": "Main view",
+          "timestamp": "2025-02-11T15:33:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot77",
+      "name": "Location 77",
+      "coordinates": {
+        "lat": 34.2622,
+        "lng": 12.1027
+      },
+      "status": "active",
+      "lastUpdated": "2025-01-29T15:46:13Z",
+      "measurements": {
+        "temperature": 23.4,
+        "humidity": 62,
+        "pressure": 1000.4
+      },
+      "metadata": {
+        "deviceId": "dev_377",
+        "installationDate": "2024-01-18",
+        "type": "indoor"
+      },
+      "images": [
+        {
+          "id": "img77_1",
+          "url": "https://robohash.org/Location 77",
+          "caption": "Detailed view",
+          "timestamp": "2025-02-11T15:04:13Z"
+        },
+        {
+          "id": "img77_2",
+          "url": "https://robohash.org/Location 77",
+          "caption": "Overview shot",
+          "timestamp": "2025-02-11T15:33:13Z"
+        },
+        {
+          "id": "img77_3",
+          "url": "https://robohash.org/Location 77",
+          "caption": "Side angle",
+          "timestamp": "2025-02-11T15:35:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot78",
+      "name": "Location 78",
+      "coordinates": {
+        "lat": 87.3801,
+        "lng": -21.96
+      },
+      "status": "active",
+      "lastUpdated": "2025-02-09T15:46:13Z",
+      "measurements": {
+        "temperature": 33.4,
+        "humidity": 58,
+        "pressure": 1019.8
+      },
+      "metadata": {
+        "deviceId": "dev_903",
+        "installationDate": "2024-01-19",
+        "type": "indoor"
+      },
+      "images": [
+        {
+          "id": "img78_1",
+          "url": "https://robohash.org/Location 78",
+          "caption": "Overview shot",
+          "timestamp": "2025-02-11T15:42:13Z"
+        },
+        {
+          "id": "img78_2",
+          "url": "https://robohash.org/Location 78",
+          "caption": "Detailed view",
+          "timestamp": "2025-02-11T14:50:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot79",
+      "name": "Location 79",
+      "coordinates": {
+        "lat": 20.1854,
+        "lng": -110.3208
+      },
+      "status": "active",
+      "lastUpdated": "2025-01-17T15:46:13Z",
+      "measurements": {
+        "temperature": 18.3,
+        "humidity": 44,
+        "pressure": 1000.6
+      },
+      "metadata": {
+        "deviceId": "dev_642",
+        "installationDate": "2024-01-10",
+        "type": "indoor"
+      },
+      "images": [
+        {
+          "id": "img79_1",
+          "url": "https://robohash.org/Location 79",
+          "caption": "Detailed view",
+          "timestamp": "2025-02-11T15:23:13Z"
+        },
+        {
+          "id": "img79_2",
+          "url": "https://robohash.org/Location 79",
+          "caption": "Main view",
+          "timestamp": "2025-02-11T15:04:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot80",
+      "name": "Location 80",
+      "coordinates": {
+        "lat": 1.7265,
+        "lng": 64.271
+      },
+      "status": "maintenance",
+      "lastUpdated": "2025-01-24T15:46:13Z",
+      "measurements": {
+        "temperature": 24.9,
+        "humidity": 55,
+        "pressure": 1004.5
+      },
+      "metadata": {
+        "deviceId": "dev_785",
+        "installationDate": "2024-01-04",
+        "type": "outdoor"
+      },
+      "images": [
+        {
+          "id": "img80_1",
+          "url": "https://robohash.org/Location 80",
+          "caption": "Main view",
+          "timestamp": "2025-02-11T14:54:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot81",
+      "name": "Location 81",
+      "coordinates": {
+        "lat": 76.6589,
+        "lng": 100.0488
+      },
+      "status": "maintenance",
+      "lastUpdated": "2025-01-15T15:46:13Z",
+      "measurements": {
+        "temperature": 38.1,
+        "humidity": 70,
+        "pressure": 1006.2
+      },
+      "metadata": {
+        "deviceId": "dev_209",
+        "installationDate": "2024-01-20",
+        "type": "outdoor"
+      },
+      "images": [
+        {
+          "id": "img81_1",
+          "url": "https://robohash.org/Location 81",
+          "caption": "Main view",
+          "timestamp": "2025-02-11T15:06:13Z"
+        },
+        {
+          "id": "img81_2",
+          "url": "https://robohash.org/Location 81",
+          "caption": "Main view",
+          "timestamp": "2025-02-11T15:23:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot82",
+      "name": "Location 82",
+      "coordinates": {
+        "lat": 3.999,
+        "lng": 53.5224
+      },
+      "status": "maintenance",
+      "lastUpdated": "2025-01-25T15:46:13Z",
+      "measurements": {
+        "temperature": 12.8,
+        "humidity": 78,
+        "pressure": 1009.4
+      },
+      "metadata": {
+        "deviceId": "dev_719",
+        "installationDate": "2024-01-14",
+        "type": "indoor"
+      },
+      "images": [
+        {
+          "id": "img82_1",
+          "url": "https://robohash.org/Location 82",
+          "caption": "Main view",
+          "timestamp": "2025-02-11T15:34:13Z"
+        },
+        {
+          "id": "img82_2",
+          "url": "https://robohash.org/Location 82",
+          "caption": "Overview shot",
+          "timestamp": "2025-02-11T14:56:13Z"
+        },
+        {
+          "id": "img82_3",
+          "url": "https://robohash.org/Location 82",
+          "caption": "Main view",
+          "timestamp": "2025-02-11T15:23:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot83",
+      "name": "Location 83",
+      "coordinates": {
+        "lat": 44.225,
+        "lng": -70.6817
+      },
+      "status": "active",
+      "lastUpdated": "2025-01-18T15:46:13Z",
+      "measurements": {
+        "temperature": 16.9,
+        "humidity": 49,
+        "pressure": 1013.8
+      },
+      "metadata": {
+        "deviceId": "dev_793",
+        "installationDate": "2024-01-06",
+        "type": "outdoor"
+      },
+      "images": [
+        {
+          "id": "img83_1",
+          "url": "https://robohash.org/Location 83",
+          "caption": "Side angle",
+          "timestamp": "2025-02-11T15:24:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot84",
+      "name": "Location 84",
+      "coordinates": {
+        "lat": -66.0926,
+        "lng": 173.6925
+      },
+      "status": "maintenance",
+      "lastUpdated": "2025-01-28T15:46:13Z",
+      "measurements": {
+        "temperature": 15.1,
+        "humidity": 52,
+        "pressure": 1005.1
+      },
+      "metadata": {
+        "deviceId": "dev_323",
+        "installationDate": "2024-01-21",
+        "type": "outdoor"
+      },
+      "images": [
+        {
+          "id": "img84_1",
+          "url": "https://robohash.org/Location 84",
+          "caption": "Overview shot",
+          "timestamp": "2025-02-11T15:19:13Z"
+        },
+        {
+          "id": "img84_2",
+          "url": "https://robohash.org/Location 84",
+          "caption": "Overview shot",
+          "timestamp": "2025-02-11T15:17:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot85",
+      "name": "Location 85",
+      "coordinates": {
+        "lat": 0.5074,
+        "lng": -29.2329
+      },
+      "status": "maintenance",
+      "lastUpdated": "2025-02-02T15:46:13Z",
+      "measurements": {
+        "temperature": 35.8,
+        "humidity": 41,
+        "pressure": 1019.8
+      },
+      "metadata": {
+        "deviceId": "dev_400",
+        "installationDate": "2024-01-03",
+        "type": "indoor"
+      },
+      "images": [
+        {
+          "id": "img85_1",
+          "url": "https://robohash.org/Location 85",
+          "caption": "Close-up detail",
+          "timestamp": "2025-02-11T15:41:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot86",
+      "name": "Location 86",
+      "coordinates": {
+        "lat": 19.5493,
+        "lng": -141.6323
+      },
+      "status": "active",
+      "lastUpdated": "2025-02-05T15:46:13Z",
+      "measurements": {
+        "temperature": 29.2,
+        "humidity": 88,
+        "pressure": 1016.7
+      },
+      "metadata": {
+        "deviceId": "dev_319",
+        "installationDate": "2024-01-17",
+        "type": "outdoor"
+      },
+      "images": [
+        {
+          "id": "img86_1",
+          "url": "https://robohash.org/Location 86",
+          "caption": "Side angle",
+          "timestamp": "2025-02-11T15:05:13Z"
+        },
+        {
+          "id": "img86_2",
+          "url": "https://robohash.org/Location 86",
+          "caption": "Overview shot",
+          "timestamp": "2025-02-11T14:53:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot87",
+      "name": "Location 87",
+      "coordinates": {
+        "lat": -78.6083,
+        "lng": 108.6468
+      },
+      "status": "active",
+      "lastUpdated": "2025-01-26T15:46:13Z",
+      "measurements": {
+        "temperature": 10.4,
+        "humidity": 84,
+        "pressure": 1006.0
+      },
+      "metadata": {
+        "deviceId": "dev_653",
+        "installationDate": "2024-01-24",
+        "type": "outdoor"
+      },
+      "images": [
+        {
+          "id": "img87_1",
+          "url": "https://robohash.org/Location 87",
+          "caption": "Side angle",
+          "timestamp": "2025-02-11T15:04:13Z"
+        },
+        {
+          "id": "img87_2",
+          "url": "https://robohash.org/Location 87",
+          "caption": "Detailed view",
+          "timestamp": "2025-02-11T15:05:13Z"
+        },
+        {
+          "id": "img87_3",
+          "url": "https://robohash.org/Location 87",
+          "caption": "Overview shot",
+          "timestamp": "2025-02-11T15:05:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot88",
+      "name": "Location 88",
+      "coordinates": {
+        "lat": -12.6343,
+        "lng": 94.9166
+      },
+      "status": "active",
+      "lastUpdated": "2025-01-19T15:46:13Z",
+      "measurements": {
+        "temperature": 15.0,
+        "humidity": 82,
+        "pressure": 1004.2
+      },
+      "metadata": {
+        "deviceId": "dev_217",
+        "installationDate": "2024-01-01",
+        "type": "indoor"
+      },
+      "images": [
+        {
+          "id": "img88_1",
+          "url": "https://robohash.org/Location 88",
+          "caption": "Overview shot",
+          "timestamp": "2025-02-11T15:15:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot89",
+      "name": "Location 89",
+      "coordinates": {
+        "lat": -53.065,
+        "lng": -2.1681
+      },
+      "status": "maintenance",
+      "lastUpdated": "2025-01-19T15:46:13Z",
+      "measurements": {
+        "temperature": 39.8,
+        "humidity": 84,
+        "pressure": 1000.5
+      },
+      "metadata": {
+        "deviceId": "dev_124",
+        "installationDate": "2024-01-10",
+        "type": "outdoor"
+      },
+      "images": [
+        {
+          "id": "img89_1",
+          "url": "https://robohash.org/Location 89",
+          "caption": "Main view",
+          "timestamp": "2025-02-11T15:24:13Z"
+        },
+        {
+          "id": "img89_2",
+          "url": "https://robohash.org/Location 89",
+          "caption": "Overview shot",
+          "timestamp": "2025-02-11T15:33:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot90",
+      "name": "Location 90",
+      "coordinates": {
+        "lat": -59.8266,
+        "lng": 122.0081
+      },
+      "status": "active",
+      "lastUpdated": "2025-01-12T15:46:13Z",
+      "measurements": {
+        "temperature": 18.5,
+        "humidity": 36,
+        "pressure": 1014.3
+      },
+      "metadata": {
+        "deviceId": "dev_615",
+        "installationDate": "2024-01-11",
+        "type": "outdoor"
+      },
+      "images": [
+        {
+          "id": "img90_1",
+          "url": "https://robohash.org/Location 90",
+          "caption": "Overview shot",
+          "timestamp": "2025-02-11T14:48:13Z"
+        },
+        {
+          "id": "img90_2",
+          "url": "https://robohash.org/Location 90",
+          "caption": "Main view",
+          "timestamp": "2025-02-11T15:30:13Z"
+        },
+        {
+          "id": "img90_3",
+          "url": "https://robohash.org/Location 90",
+          "caption": "Detailed view",
+          "timestamp": "2025-02-11T15:12:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot91",
+      "name": "Location 91",
+      "coordinates": {
+        "lat": -34.0412,
+        "lng": -89.5695
+      },
+      "status": "active",
+      "lastUpdated": "2025-02-10T15:46:13Z",
+      "measurements": {
+        "temperature": 18.1,
+        "humidity": 77,
+        "pressure": 1016.3
+      },
+      "metadata": {
+        "deviceId": "dev_889",
+        "installationDate": "2024-01-11",
+        "type": "indoor"
+      },
+      "images": [
+        {
+          "id": "img91_1",
+          "url": "https://robohash.org/Location 91",
+          "caption": "Overview shot",
+          "timestamp": "2025-02-11T14:57:13Z"
+        },
+        {
+          "id": "img91_2",
+          "url": "https://robohash.org/Location 91",
+          "caption": "Close-up detail",
+          "timestamp": "2025-02-11T15:21:13Z"
+        },
+        {
+          "id": "img91_3",
+          "url": "https://robohash.org/Location 91",
+          "caption": "Main view",
+          "timestamp": "2025-02-11T15:33:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot92",
+      "name": "Location 92",
+      "coordinates": {
+        "lat": -53.5148,
+        "lng": -53.5494
+      },
+      "status": "active",
+      "lastUpdated": "2025-01-20T15:46:13Z",
+      "measurements": {
+        "temperature": 14.6,
+        "humidity": 52,
+        "pressure": 1014.5
+      },
+      "metadata": {
+        "deviceId": "dev_407",
+        "installationDate": "2024-01-03",
+        "type": "indoor"
+      },
+      "images": [
+        {
+          "id": "img92_1",
+          "url": "https://robohash.org/Location 92",
+          "caption": "Detailed view",
+          "timestamp": "2025-02-11T15:42:13Z"
+        },
+        {
+          "id": "img92_2",
+          "url": "https://robohash.org/Location 92",
+          "caption": "Main view",
+          "timestamp": "2025-02-11T15:24:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot93",
+      "name": "Location 93",
+      "coordinates": {
+        "lat": 72.5147,
+        "lng": 166.2534
+      },
+      "status": "maintenance",
+      "lastUpdated": "2025-02-04T15:46:13Z",
+      "measurements": {
+        "temperature": 15.4,
+        "humidity": 58,
+        "pressure": 1010.4
+      },
+      "metadata": {
+        "deviceId": "dev_252",
+        "installationDate": "2024-01-30",
+        "type": "outdoor"
+      },
+      "images": [
+        {
+          "id": "img93_1",
+          "url": "https://robohash.org/Location 93",
+          "caption": "Detailed view",
+          "timestamp": "2025-02-11T15:18:13Z"
+        },
+        {
+          "id": "img93_2",
+          "url": "https://robohash.org/Location 93",
+          "caption": "Close-up detail",
+          "timestamp": "2025-02-11T14:46:13Z"
+        },
+        {
+          "id": "img93_3",
+          "url": "https://robohash.org/Location 93",
+          "caption": "Overview shot",
+          "timestamp": "2025-02-11T15:29:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot94",
+      "name": "Location 94",
+      "coordinates": {
+        "lat": -88.17,
+        "lng": -28.6583
+      },
+      "status": "active",
+      "lastUpdated": "2025-01-22T15:46:13Z",
+      "measurements": {
+        "temperature": 13.4,
+        "humidity": 88,
+        "pressure": 1003.2
+      },
+      "metadata": {
+        "deviceId": "dev_243",
+        "installationDate": "2024-01-20",
+        "type": "outdoor"
+      },
+      "images": [
+        {
+          "id": "img94_1",
+          "url": "https://robohash.org/Location 94",
+          "caption": "Overview shot",
+          "timestamp": "2025-02-11T14:47:13Z"
+        },
+        {
+          "id": "img94_2",
+          "url": "https://robohash.org/Location 94",
+          "caption": "Side angle",
+          "timestamp": "2025-02-11T15:26:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot95",
+      "name": "Location 95",
+      "coordinates": {
+        "lat": 84.4224,
+        "lng": 15.748
+      },
+      "status": "maintenance",
+      "lastUpdated": "2025-02-05T15:46:13Z",
+      "measurements": {
+        "temperature": 36.0,
+        "humidity": 31,
+        "pressure": 1000.5
+      },
+      "metadata": {
+        "deviceId": "dev_704",
+        "installationDate": "2024-01-23",
+        "type": "outdoor"
+      },
+      "images": [
+        {
+          "id": "img95_1",
+          "url": "https://robohash.org/Location 95",
+          "caption": "Main view",
+          "timestamp": "2025-02-11T15:24:13Z"
+        },
+        {
+          "id": "img95_2",
+          "url": "https://robohash.org/Location 95",
+          "caption": "Main view",
+          "timestamp": "2025-02-11T14:50:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot96",
+      "name": "Location 96",
+      "coordinates": {
+        "lat": -80.9311,
+        "lng": 125.8751
+      },
+      "status": "maintenance",
+      "lastUpdated": "2025-02-05T15:46:13Z",
+      "measurements": {
+        "temperature": 29.6,
+        "humidity": 53,
+        "pressure": 1009.0
+      },
+      "metadata": {
+        "deviceId": "dev_178",
+        "installationDate": "2024-01-11",
+        "type": "indoor"
+      },
+      "images": [
+        {
+          "id": "img96_1",
+          "url": "https://robohash.org/Location 96",
+          "caption": "Close-up detail",
+          "timestamp": "2025-02-11T15:14:13Z"
+        },
+        {
+          "id": "img96_2",
+          "url": "https://robohash.org/Location 96",
+          "caption": "Close-up detail",
+          "timestamp": "2025-02-11T15:04:13Z"
+        },
+        {
+          "id": "img96_3",
+          "url": "https://robohash.org/Location 96",
+          "caption": "Main view",
+          "timestamp": "2025-02-11T15:16:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot97",
+      "name": "Location 97",
+      "coordinates": {
+        "lat": 83.391,
+        "lng": 101.2017
+      },
+      "status": "active",
+      "lastUpdated": "2025-01-30T15:46:13Z",
+      "measurements": {
+        "temperature": 17.8,
+        "humidity": 39,
+        "pressure": 1011.2
+      },
+      "metadata": {
+        "deviceId": "dev_939",
+        "installationDate": "2024-01-12",
+        "type": "indoor"
+      },
+      "images": [
+        {
+          "id": "img97_1",
+          "url": "https://robohash.org/Location 97",
+          "caption": "Close-up detail",
+          "timestamp": "2025-02-11T14:53:13Z"
+        },
+        {
+          "id": "img97_2",
+          "url": "https://robohash.org/Location 97",
+          "caption": "Side angle",
+          "timestamp": "2025-02-11T15:01:13Z"
+        },
+        {
+          "id": "img97_3",
+          "url": "https://robohash.org/Location 97",
+          "caption": "Close-up detail",
+          "timestamp": "2025-02-11T15:09:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot98",
+      "name": "Location 98",
+      "coordinates": {
+        "lat": 61.8455,
+        "lng": 105.5181
+      },
+      "status": "active",
+      "lastUpdated": "2025-01-15T15:46:13Z",
+      "measurements": {
+        "temperature": 38.7,
+        "humidity": 34,
+        "pressure": 1007.2
+      },
+      "metadata": {
+        "deviceId": "dev_803",
+        "installationDate": "2024-01-04",
+        "type": "indoor"
+      },
+      "images": [
+        {
+          "id": "img98_1",
+          "url": "https://robohash.org/Location 98",
+          "caption": "Main view",
+          "timestamp": "2025-02-11T15:28:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot99",
+      "name": "Location 99",
+      "coordinates": {
+        "lat": -82.232,
+        "lng": -16.3935
+      },
+      "status": "maintenance",
+      "lastUpdated": "2025-02-10T15:46:13Z",
+      "measurements": {
+        "temperature": 35.7,
+        "humidity": 77,
+        "pressure": 1014.5
+      },
+      "metadata": {
+        "deviceId": "dev_974",
+        "installationDate": "2024-01-21",
+        "type": "indoor"
+      },
+      "images": [
+        {
+          "id": "img99_1",
+          "url": "https://robohash.org/Location 99",
+          "caption": "Close-up detail",
+          "timestamp": "2025-02-11T15:21:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot100",
+      "name": "Location 100",
+      "coordinates": {
+        "lat": 65.2001,
+        "lng": -45.1024
+      },
+      "status": "active",
+      "lastUpdated": "2025-01-17T15:46:13Z",
+      "measurements": {
+        "temperature": 36.3,
+        "humidity": 45,
+        "pressure": 1012.9
+      },
+      "metadata": {
+        "deviceId": "dev_917",
+        "installationDate": "2024-01-13",
+        "type": "indoor"
+      },
+      "images": [
+        {
+          "id": "img100_1",
+          "url": "https://robohash.org/Location 100",
+          "caption": "Detailed view",
+          "timestamp": "2025-02-11T15:14:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot101",
+      "name": "Location 101",
+      "coordinates": {
+        "lat": 34.4136,
+        "lng": -40.4906
+      },
+      "status": "maintenance",
+      "lastUpdated": "2025-01-15T15:46:13Z",
+      "measurements": {
+        "temperature": 19.3,
+        "humidity": 34,
+        "pressure": 1018.9
+      },
+      "metadata": {
+        "deviceId": "dev_411",
+        "installationDate": "2024-01-17",
+        "type": "outdoor"
+      },
+      "images": [
+        {
+          "id": "img101_1",
+          "url": "https://robohash.org/Location 101",
+          "caption": "Detailed view",
+          "timestamp": "2025-02-11T15:14:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot102",
+      "name": "Location 102",
+      "coordinates": {
+        "lat": -85.3454,
+        "lng": 126.614
+      },
+      "status": "maintenance",
+      "lastUpdated": "2025-01-12T15:46:13Z",
+      "measurements": {
+        "temperature": 23.4,
+        "humidity": 56,
+        "pressure": 1004.8
+      },
+      "metadata": {
+        "deviceId": "dev_723",
+        "installationDate": "2024-01-30",
+        "type": "outdoor"
+      },
+      "images": [
+        {
+          "id": "img102_1",
+          "url": "https://robohash.org/Location 102",
+          "caption": "Overview shot",
+          "timestamp": "2025-02-11T15:27:13Z"
+        },
+        {
+          "id": "img102_2",
+          "url": "https://robohash.org/Location 102",
+          "caption": "Close-up detail",
+          "timestamp": "2025-02-11T15:06:13Z"
+        },
+        {
+          "id": "img102_3",
+          "url": "https://robohash.org/Location 102",
+          "caption": "Main view",
+          "timestamp": "2025-02-11T15:44:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot103",
+      "name": "Location 103",
+      "coordinates": {
+        "lat": 21.3787,
+        "lng": -75.7251
+      },
+      "status": "active",
+      "lastUpdated": "2025-02-07T15:46:13Z",
+      "measurements": {
+        "temperature": 11.9,
+        "humidity": 57,
+        "pressure": 1008.8
+      },
+      "metadata": {
+        "deviceId": "dev_137",
+        "installationDate": "2024-01-31",
+        "type": "outdoor"
+      },
+      "images": [
+        {
+          "id": "img103_1",
+          "url": "https://robohash.org/Location 103",
+          "caption": "Close-up detail",
+          "timestamp": "2025-02-11T15:46:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot104",
+      "name": "Location 104",
+      "coordinates": {
+        "lat": -12.0423,
+        "lng": 78.5743
+      },
+      "status": "active",
+      "lastUpdated": "2025-01-29T15:46:13Z",
+      "measurements": {
+        "temperature": 36.5,
+        "humidity": 33,
+        "pressure": 1005.7
+      },
+      "metadata": {
+        "deviceId": "dev_317",
+        "installationDate": "2024-01-21",
+        "type": "indoor"
+      },
+      "images": [
+        {
+          "id": "img104_1",
+          "url": "https://robohash.org/Location 104",
+          "caption": "Overview shot",
+          "timestamp": "2025-02-11T14:47:13Z"
+        },
+        {
+          "id": "img104_2",
+          "url": "https://robohash.org/Location 104",
+          "caption": "Side angle",
+          "timestamp": "2025-02-11T14:59:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot105",
+      "name": "Location 105",
+      "coordinates": {
+        "lat": 59.3813,
+        "lng": -122.9308
+      },
+      "status": "maintenance",
+      "lastUpdated": "2025-02-07T15:46:13Z",
+      "measurements": {
+        "temperature": 37.1,
+        "humidity": 70,
+        "pressure": 1011.0
+      },
+      "metadata": {
+        "deviceId": "dev_735",
+        "installationDate": "2024-01-27",
+        "type": "outdoor"
+      },
+      "images": [
+        {
+          "id": "img105_1",
+          "url": "https://robohash.org/Location 105",
+          "caption": "Side angle",
+          "timestamp": "2025-02-11T14:53:13Z"
+        },
+        {
+          "id": "img105_2",
+          "url": "https://robohash.org/Location 105",
+          "caption": "Detailed view",
+          "timestamp": "2025-02-11T15:15:13Z"
+        },
+        {
+          "id": "img105_3",
+          "url": "https://robohash.org/Location 105",
+          "caption": "Side angle",
+          "timestamp": "2025-02-11T14:49:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot106",
+      "name": "Location 106",
+      "coordinates": {
+        "lat": 26.3053,
+        "lng": -94.1116
+      },
+      "status": "active",
+      "lastUpdated": "2025-01-27T15:46:13Z",
+      "measurements": {
+        "temperature": 22.5,
+        "humidity": 40,
+        "pressure": 1012.0
+      },
+      "metadata": {
+        "deviceId": "dev_690",
+        "installationDate": "2024-01-09",
+        "type": "indoor"
+      },
+      "images": [
+        {
+          "id": "img106_1",
+          "url": "https://robohash.org/Location 106",
+          "caption": "Main view",
+          "timestamp": "2025-02-11T14:51:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot107",
+      "name": "Location 107",
+      "coordinates": {
+        "lat": -53.7987,
+        "lng": 147.337
+      },
+      "status": "active",
+      "lastUpdated": "2025-01-12T15:46:13Z",
+      "measurements": {
+        "temperature": 13.8,
+        "humidity": 67,
+        "pressure": 1008.5
+      },
+      "metadata": {
+        "deviceId": "dev_267",
+        "installationDate": "2024-01-06",
+        "type": "indoor"
+      },
+      "images": [
+        {
+          "id": "img107_1",
+          "url": "https://robohash.org/Location 107",
+          "caption": "Main view",
+          "timestamp": "2025-02-11T15:27:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot108",
+      "name": "Location 108",
+      "coordinates": {
+        "lat": -38.6038,
+        "lng": 118.6826
+      },
+      "status": "maintenance",
+      "lastUpdated": "2025-01-31T15:46:13Z",
+      "measurements": {
+        "temperature": 39.3,
+        "humidity": 32,
+        "pressure": 1003.5
+      },
+      "metadata": {
+        "deviceId": "dev_961",
+        "installationDate": "2024-01-13",
+        "type": "outdoor"
+      },
+      "images": [
+        {
+          "id": "img108_1",
+          "url": "https://robohash.org/Location 108",
+          "caption": "Main view",
+          "timestamp": "2025-02-11T15:41:13Z"
+        },
+        {
+          "id": "img108_2",
+          "url": "https://robohash.org/Location 108",
+          "caption": "Main view",
+          "timestamp": "2025-02-11T14:56:13Z"
+        },
+        {
+          "id": "img108_3",
+          "url": "https://robohash.org/Location 108",
+          "caption": "Side angle",
+          "timestamp": "2025-02-11T15:02:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot109",
+      "name": "Location 109",
+      "coordinates": {
+        "lat": 78.3459,
+        "lng": 38.9967
+      },
+      "status": "active",
+      "lastUpdated": "2025-01-18T15:46:13Z",
+      "measurements": {
+        "temperature": 21.7,
+        "humidity": 56,
+        "pressure": 1005.2
+      },
+      "metadata": {
+        "deviceId": "dev_266",
+        "installationDate": "2024-01-31",
+        "type": "outdoor"
+      },
+      "images": [
+        {
+          "id": "img109_1",
+          "url": "https://robohash.org/Location 109",
+          "caption": "Side angle",
+          "timestamp": "2025-02-11T14:48:13Z"
+        },
+        {
+          "id": "img109_2",
+          "url": "https://robohash.org/Location 109",
+          "caption": "Close-up detail",
+          "timestamp": "2025-02-11T15:39:13Z"
+        },
+        {
+          "id": "img109_3",
+          "url": "https://robohash.org/Location 109",
+          "caption": "Overview shot",
+          "timestamp": "2025-02-11T15:33:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot110",
+      "name": "Location 110",
+      "coordinates": {
+        "lat": -23.9394,
+        "lng": 72.6644
+      },
+      "status": "active",
+      "lastUpdated": "2025-02-07T15:46:13Z",
+      "measurements": {
+        "temperature": 13.4,
+        "humidity": 82,
+        "pressure": 1010.5
+      },
+      "metadata": {
+        "deviceId": "dev_961",
+        "installationDate": "2024-01-12",
+        "type": "outdoor"
+      },
+      "images": [
+        {
+          "id": "img110_1",
+          "url": "https://robohash.org/Location 110",
+          "caption": "Main view",
+          "timestamp": "2025-02-11T15:46:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot111",
+      "name": "Location 111",
+      "coordinates": {
+        "lat": 57.441,
+        "lng": 38.5381
+      },
+      "status": "maintenance",
+      "lastUpdated": "2025-01-26T15:46:13Z",
+      "measurements": {
+        "temperature": 38.2,
+        "humidity": 64,
+        "pressure": 1012.8
+      },
+      "metadata": {
+        "deviceId": "dev_475",
+        "installationDate": "2024-01-09",
+        "type": "indoor"
+      },
+      "images": [
+        {
+          "id": "img111_1",
+          "url": "https://robohash.org/Location 111",
+          "caption": "Close-up detail",
+          "timestamp": "2025-02-11T14:53:13Z"
+        },
+        {
+          "id": "img111_2",
+          "url": "https://robohash.org/Location 111",
+          "caption": "Detailed view",
+          "timestamp": "2025-02-11T15:22:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot112",
+      "name": "Location 112",
+      "coordinates": {
+        "lat": -73.8575,
+        "lng": 88.0536
+      },
+      "status": "active",
+      "lastUpdated": "2025-02-07T15:46:13Z",
+      "measurements": {
+        "temperature": 22.4,
+        "humidity": 63,
+        "pressure": 1012.2
+      },
+      "metadata": {
+        "deviceId": "dev_358",
+        "installationDate": "2024-01-20",
+        "type": "outdoor"
+      },
+      "images": [
+        {
+          "id": "img112_1",
+          "url": "https://robohash.org/Location 112",
+          "caption": "Side angle",
+          "timestamp": "2025-02-11T15:21:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot113",
+      "name": "Location 113",
+      "coordinates": {
+        "lat": -38.9154,
+        "lng": -0.8176
+      },
+      "status": "active",
+      "lastUpdated": "2025-01-18T15:46:13Z",
+      "measurements": {
+        "temperature": 16.9,
+        "humidity": 79,
+        "pressure": 1008.6
+      },
+      "metadata": {
+        "deviceId": "dev_355",
+        "installationDate": "2024-01-18",
+        "type": "outdoor"
+      },
+      "images": [
+        {
+          "id": "img113_1",
+          "url": "https://robohash.org/Location 113",
+          "caption": "Main view",
+          "timestamp": "2025-02-11T15:22:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot114",
+      "name": "Location 114",
+      "coordinates": {
+        "lat": -53.8004,
+        "lng": 2.3849
+      },
+      "status": "maintenance",
+      "lastUpdated": "2025-02-07T15:46:13Z",
+      "measurements": {
+        "temperature": 15.7,
+        "humidity": 67,
+        "pressure": 1007.6
+      },
+      "metadata": {
+        "deviceId": "dev_803",
+        "installationDate": "2024-01-11",
+        "type": "outdoor"
+      },
+      "images": [
+        {
+          "id": "img114_1",
+          "url": "https://robohash.org/Location 114",
+          "caption": "Main view",
+          "timestamp": "2025-02-11T15:17:13Z"
+        },
+        {
+          "id": "img114_2",
+          "url": "https://robohash.org/Location 114",
+          "caption": "Main view",
+          "timestamp": "2025-02-11T15:46:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot115",
+      "name": "Location 115",
+      "coordinates": {
+        "lat": 35.998,
+        "lng": -40.6928
+      },
+      "status": "active",
+      "lastUpdated": "2025-01-12T15:46:13Z",
+      "measurements": {
+        "temperature": 12.5,
+        "humidity": 77,
+        "pressure": 1014.0
+      },
+      "metadata": {
+        "deviceId": "dev_197",
+        "installationDate": "2024-01-07",
+        "type": "indoor"
+      },
+      "images": [
+        {
+          "id": "img115_1",
+          "url": "https://robohash.org/Location 115",
+          "caption": "Overview shot",
+          "timestamp": "2025-02-11T15:33:13Z"
+        },
+        {
+          "id": "img115_2",
+          "url": "https://robohash.org/Location 115",
+          "caption": "Overview shot",
+          "timestamp": "2025-02-11T14:57:13Z"
+        },
+        {
+          "id": "img115_3",
+          "url": "https://robohash.org/Location 115",
+          "caption": "Main view",
+          "timestamp": "2025-02-11T15:21:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot116",
+      "name": "Location 116",
+      "coordinates": {
+        "lat": 60.0984,
+        "lng": 65.5805
+      },
+      "status": "maintenance",
+      "lastUpdated": "2025-01-13T15:46:13Z",
+      "measurements": {
+        "temperature": 36.7,
+        "humidity": 44,
+        "pressure": 1010.8
+      },
+      "metadata": {
+        "deviceId": "dev_134",
+        "installationDate": "2024-01-30",
+        "type": "indoor"
+      },
+      "images": [
+        {
+          "id": "img116_1",
+          "url": "https://robohash.org/Location 116",
+          "caption": "Close-up detail",
+          "timestamp": "2025-02-11T15:17:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot117",
+      "name": "Location 117",
+      "coordinates": {
+        "lat": 71.7306,
+        "lng": -46.3538
+      },
+      "status": "maintenance",
+      "lastUpdated": "2025-02-08T15:46:13Z",
+      "measurements": {
+        "temperature": 23.3,
+        "humidity": 62,
+        "pressure": 1019.3
+      },
+      "metadata": {
+        "deviceId": "dev_772",
+        "installationDate": "2024-01-30",
+        "type": "outdoor"
+      },
+      "images": [
+        {
+          "id": "img117_1",
+          "url": "https://robohash.org/Location 117",
+          "caption": "Side angle",
+          "timestamp": "2025-02-11T15:04:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot118",
+      "name": "Location 118",
+      "coordinates": {
+        "lat": 6.0852,
+        "lng": -24.9248
+      },
+      "status": "maintenance",
+      "lastUpdated": "2025-01-24T15:46:13Z",
+      "measurements": {
+        "temperature": 11.2,
+        "humidity": 90,
+        "pressure": 1010.6
+      },
+      "metadata": {
+        "deviceId": "dev_801",
+        "installationDate": "2024-01-07",
+        "type": "indoor"
+      },
+      "images": [
+        {
+          "id": "img118_1",
+          "url": "https://robohash.org/Location 118",
+          "caption": "Side angle",
+          "timestamp": "2025-02-11T14:56:13Z"
+        },
+        {
+          "id": "img118_2",
+          "url": "https://robohash.org/Location 118",
+          "caption": "Side angle",
+          "timestamp": "2025-02-11T15:05:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot119",
+      "name": "Location 119",
+      "coordinates": {
+        "lat": 70.8324,
+        "lng": 91.5492
+      },
+      "status": "maintenance",
+      "lastUpdated": "2025-02-02T15:46:13Z",
+      "measurements": {
+        "temperature": 31.0,
+        "humidity": 57,
+        "pressure": 1002.9
+      },
+      "metadata": {
+        "deviceId": "dev_839",
+        "installationDate": "2024-01-28",
+        "type": "outdoor"
+      },
+      "images": [
+        {
+          "id": "img119_1",
+          "url": "https://robohash.org/Location 119",
+          "caption": "Side angle",
+          "timestamp": "2025-02-11T14:59:13Z"
+        },
+        {
+          "id": "img119_2",
+          "url": "https://robohash.org/Location 119",
+          "caption": "Close-up detail",
+          "timestamp": "2025-02-11T15:43:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot120",
+      "name": "Location 120",
+      "coordinates": {
+        "lat": -7.0233,
+        "lng": -75.6779
+      },
+      "status": "active",
+      "lastUpdated": "2025-01-22T15:46:13Z",
+      "measurements": {
+        "temperature": 24.0,
+        "humidity": 53,
+        "pressure": 1001.5
+      },
+      "metadata": {
+        "deviceId": "dev_405",
+        "installationDate": "2024-01-24",
+        "type": "outdoor"
+      },
+      "images": [
+        {
+          "id": "img120_1",
+          "url": "https://robohash.org/Location 120",
+          "caption": "Main view",
+          "timestamp": "2025-02-11T14:52:13Z"
+        },
+        {
+          "id": "img120_2",
+          "url": "https://robohash.org/Location 120",
+          "caption": "Close-up detail",
+          "timestamp": "2025-02-11T15:12:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot121",
+      "name": "Location 121",
+      "coordinates": {
+        "lat": 16.2466,
+        "lng": -169.5463
+      },
+      "status": "maintenance",
+      "lastUpdated": "2025-02-10T15:46:13Z",
+      "measurements": {
+        "temperature": 15.7,
+        "humidity": 85,
+        "pressure": 1004.8
+      },
+      "metadata": {
+        "deviceId": "dev_852",
+        "installationDate": "2024-01-03",
+        "type": "indoor"
+      },
+      "images": [
+        {
+          "id": "img121_1",
+          "url": "https://robohash.org/Location 121",
+          "caption": "Close-up detail",
+          "timestamp": "2025-02-11T15:39:13Z"
+        },
+        {
+          "id": "img121_2",
+          "url": "https://robohash.org/Location 121",
+          "caption": "Overview shot",
+          "timestamp": "2025-02-11T15:11:13Z"
+        },
+        {
+          "id": "img121_3",
+          "url": "https://robohash.org/Location 121",
+          "caption": "Main view",
+          "timestamp": "2025-02-11T15:13:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot122",
+      "name": "Location 122",
+      "coordinates": {
+        "lat": -71.0184,
+        "lng": 143.8272
+      },
+      "status": "maintenance",
+      "lastUpdated": "2025-01-18T15:46:13Z",
+      "measurements": {
+        "temperature": 17.9,
+        "humidity": 54,
+        "pressure": 1016.6
+      },
+      "metadata": {
+        "deviceId": "dev_167",
+        "installationDate": "2024-01-23",
+        "type": "outdoor"
+      },
+      "images": [
+        {
+          "id": "img122_1",
+          "url": "https://robohash.org/Location 122",
+          "caption": "Close-up detail",
+          "timestamp": "2025-02-11T15:03:13Z"
+        },
+        {
+          "id": "img122_2",
+          "url": "https://robohash.org/Location 122",
+          "caption": "Main view",
+          "timestamp": "2025-02-11T15:42:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot123",
+      "name": "Location 123",
+      "coordinates": {
+        "lat": -42.5322,
+        "lng": 57.3332
+      },
+      "status": "active",
+      "lastUpdated": "2025-01-31T15:46:13Z",
+      "measurements": {
+        "temperature": 25.8,
+        "humidity": 84,
+        "pressure": 1007.5
+      },
+      "metadata": {
+        "deviceId": "dev_133",
+        "installationDate": "2024-01-30",
+        "type": "outdoor"
+      },
+      "images": [
+        {
+          "id": "img123_1",
+          "url": "https://robohash.org/Location 123",
+          "caption": "Overview shot",
+          "timestamp": "2025-02-11T15:01:13Z"
+        },
+        {
+          "id": "img123_2",
+          "url": "https://robohash.org/Location 123",
+          "caption": "Overview shot",
+          "timestamp": "2025-02-11T15:25:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot124",
+      "name": "Location 124",
+      "coordinates": {
+        "lat": 41.1457,
+        "lng": -52.1736
+      },
+      "status": "maintenance",
+      "lastUpdated": "2025-01-25T15:46:13Z",
+      "measurements": {
+        "temperature": 31.0,
+        "humidity": 30,
+        "pressure": 1015.6
+      },
+      "metadata": {
+        "deviceId": "dev_575",
+        "installationDate": "2024-01-02",
+        "type": "indoor"
+      },
+      "images": [
+        {
+          "id": "img124_1",
+          "url": "https://robohash.org/Location 124",
+          "caption": "Overview shot",
+          "timestamp": "2025-02-11T15:42:13Z"
+        },
+        {
+          "id": "img124_2",
+          "url": "https://robohash.org/Location 124",
+          "caption": "Side angle",
+          "timestamp": "2025-02-11T15:27:13Z"
+        },
+        {
+          "id": "img124_3",
+          "url": "https://robohash.org/Location 124",
+          "caption": "Overview shot",
+          "timestamp": "2025-02-11T15:13:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot125",
+      "name": "Location 125",
+      "coordinates": {
+        "lat": 22.293,
+        "lng": 145.7602
+      },
+      "status": "active",
+      "lastUpdated": "2025-01-17T15:46:13Z",
+      "measurements": {
+        "temperature": 30.2,
+        "humidity": 62,
+        "pressure": 1004.9
+      },
+      "metadata": {
+        "deviceId": "dev_148",
+        "installationDate": "2024-01-30",
+        "type": "outdoor"
+      },
+      "images": [
+        {
+          "id": "img125_1",
+          "url": "https://robohash.org/Location 125",
+          "caption": "Side angle",
+          "timestamp": "2025-02-11T15:08:13Z"
+        },
+        {
+          "id": "img125_2",
+          "url": "https://robohash.org/Location 125",
+          "caption": "Overview shot",
+          "timestamp": "2025-02-11T15:06:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot126",
+      "name": "Location 126",
+      "coordinates": {
+        "lat": -58.9149,
+        "lng": 135.1835
+      },
+      "status": "active",
+      "lastUpdated": "2025-01-14T15:46:13Z",
+      "measurements": {
+        "temperature": 19.8,
+        "humidity": 73,
+        "pressure": 1009.5
+      },
+      "metadata": {
+        "deviceId": "dev_838",
+        "installationDate": "2024-01-08",
+        "type": "indoor"
+      },
+      "images": [
+        {
+          "id": "img126_1",
+          "url": "https://robohash.org/Location 126",
+          "caption": "Overview shot",
+          "timestamp": "2025-02-11T15:06:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot127",
+      "name": "Location 127",
+      "coordinates": {
+        "lat": 40.0163,
+        "lng": 112.5309
+      },
+      "status": "maintenance",
+      "lastUpdated": "2025-02-01T15:46:13Z",
+      "measurements": {
+        "temperature": 24.4,
+        "humidity": 47,
+        "pressure": 1014.4
+      },
+      "metadata": {
+        "deviceId": "dev_509",
+        "installationDate": "2024-01-29",
+        "type": "indoor"
+      },
+      "images": [
+        {
+          "id": "img127_1",
+          "url": "https://robohash.org/Location 127",
+          "caption": "Overview shot",
+          "timestamp": "2025-02-11T15:33:13Z"
+        },
+        {
+          "id": "img127_2",
+          "url": "https://robohash.org/Location 127",
+          "caption": "Detailed view",
+          "timestamp": "2025-02-11T15:14:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot128",
+      "name": "Location 128",
+      "coordinates": {
+        "lat": -62.2967,
+        "lng": 87.9538
+      },
+      "status": "active",
+      "lastUpdated": "2025-01-28T15:46:13Z",
+      "measurements": {
+        "temperature": 24.7,
+        "humidity": 42,
+        "pressure": 1001.8
+      },
+      "metadata": {
+        "deviceId": "dev_879",
+        "installationDate": "2024-01-31",
+        "type": "outdoor"
+      },
+      "images": [
+        {
+          "id": "img128_1",
+          "url": "https://robohash.org/Location 128",
+          "caption": "Main view",
+          "timestamp": "2025-02-11T15:14:13Z"
+        },
+        {
+          "id": "img128_2",
+          "url": "https://robohash.org/Location 128",
+          "caption": "Detailed view",
+          "timestamp": "2025-02-11T15:32:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot129",
+      "name": "Location 129",
+      "coordinates": {
+        "lat": 73.1377,
+        "lng": -155.995
+      },
+      "status": "maintenance",
+      "lastUpdated": "2025-01-25T15:46:13Z",
+      "measurements": {
+        "temperature": 33.6,
+        "humidity": 72,
+        "pressure": 1018.6
+      },
+      "metadata": {
+        "deviceId": "dev_512",
+        "installationDate": "2024-01-28",
+        "type": "outdoor"
+      },
+      "images": [
+        {
+          "id": "img129_1",
+          "url": "https://robohash.org/Location 129",
+          "caption": "Detailed view",
+          "timestamp": "2025-02-11T15:42:13Z"
+        },
+        {
+          "id": "img129_2",
+          "url": "https://robohash.org/Location 129",
+          "caption": "Side angle",
+          "timestamp": "2025-02-11T15:23:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot130",
+      "name": "Location 130",
+      "coordinates": {
+        "lat": -5.6846,
+        "lng": -80.7954
+      },
+      "status": "active",
+      "lastUpdated": "2025-01-12T15:46:13Z",
+      "measurements": {
+        "temperature": 27.5,
+        "humidity": 37,
+        "pressure": 1016.1
+      },
+      "metadata": {
+        "deviceId": "dev_894",
+        "installationDate": "2024-01-23",
+        "type": "outdoor"
+      },
+      "images": [
+        {
+          "id": "img130_1",
+          "url": "https://robohash.org/Location 130",
+          "caption": "Main view",
+          "timestamp": "2025-02-11T15:09:13Z"
+        },
+        {
+          "id": "img130_2",
+          "url": "https://robohash.org/Location 130",
+          "caption": "Detailed view",
+          "timestamp": "2025-02-11T15:09:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot131",
+      "name": "Location 131",
+      "coordinates": {
+        "lat": 78.1458,
+        "lng": 128.9203
+      },
+      "status": "maintenance",
+      "lastUpdated": "2025-01-18T15:46:13Z",
+      "measurements": {
+        "temperature": 18.7,
+        "humidity": 67,
+        "pressure": 1019.3
+      },
+      "metadata": {
+        "deviceId": "dev_565",
+        "installationDate": "2024-01-27",
+        "type": "outdoor"
+      },
+      "images": [
+        {
+          "id": "img131_1",
+          "url": "https://robohash.org/Location 131",
+          "caption": "Main view",
+          "timestamp": "2025-02-11T15:22:13Z"
+        },
+        {
+          "id": "img131_2",
+          "url": "https://robohash.org/Location 131",
+          "caption": "Main view",
+          "timestamp": "2025-02-11T15:08:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot132",
+      "name": "Location 132",
+      "coordinates": {
+        "lat": 68.773,
+        "lng": -117.7038
+      },
+      "status": "active",
+      "lastUpdated": "2025-01-12T15:46:13Z",
+      "measurements": {
+        "temperature": 12.4,
+        "humidity": 89,
+        "pressure": 1008.9
+      },
+      "metadata": {
+        "deviceId": "dev_306",
+        "installationDate": "2024-01-26",
+        "type": "indoor"
+      },
+      "images": [
+        {
+          "id": "img132_1",
+          "url": "https://robohash.org/Location 132",
+          "caption": "Overview shot",
+          "timestamp": "2025-02-11T15:06:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot133",
+      "name": "Location 133",
+      "coordinates": {
+        "lat": -88.6249,
+        "lng": -159.7989
+      },
+      "status": "active",
+      "lastUpdated": "2025-01-13T15:46:13Z",
+      "measurements": {
+        "temperature": 34.5,
+        "humidity": 59,
+        "pressure": 1019.1
+      },
+      "metadata": {
+        "deviceId": "dev_353",
+        "installationDate": "2024-01-27",
+        "type": "indoor"
+      },
+      "images": [
+        {
+          "id": "img133_1",
+          "url": "https://robohash.org/Location 133",
+          "caption": "Side angle",
+          "timestamp": "2025-02-11T15:25:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot134",
+      "name": "Location 134",
+      "coordinates": {
+        "lat": -29.4802,
+        "lng": 62.423
+      },
+      "status": "active",
+      "lastUpdated": "2025-01-15T15:46:13Z",
+      "measurements": {
+        "temperature": 26.3,
+        "humidity": 58,
+        "pressure": 1008.9
+      },
+      "metadata": {
+        "deviceId": "dev_524",
+        "installationDate": "2024-01-17",
+        "type": "outdoor"
+      },
+      "images": [
+        {
+          "id": "img134_1",
+          "url": "https://robohash.org/Location 134",
+          "caption": "Close-up detail",
+          "timestamp": "2025-02-11T15:00:13Z"
+        },
+        {
+          "id": "img134_2",
+          "url": "https://robohash.org/Location 134",
+          "caption": "Detailed view",
+          "timestamp": "2025-02-11T15:17:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot135",
+      "name": "Location 135",
+      "coordinates": {
+        "lat": -14.747,
+        "lng": -2.437
+      },
+      "status": "active",
+      "lastUpdated": "2025-02-05T15:46:13Z",
+      "measurements": {
+        "temperature": 36.8,
+        "humidity": 77,
+        "pressure": 1005.6
+      },
+      "metadata": {
+        "deviceId": "dev_485",
+        "installationDate": "2024-01-25",
+        "type": "indoor"
+      },
+      "images": [
+        {
+          "id": "img135_1",
+          "url": "https://robohash.org/Location 135",
+          "caption": "Detailed view",
+          "timestamp": "2025-02-11T15:39:13Z"
+        },
+        {
+          "id": "img135_2",
+          "url": "https://robohash.org/Location 135",
+          "caption": "Side angle",
+          "timestamp": "2025-02-11T15:13:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot136",
+      "name": "Location 136",
+      "coordinates": {
+        "lat": 78.5564,
+        "lng": 48.1194
+      },
+      "status": "active",
+      "lastUpdated": "2025-01-24T15:46:13Z",
+      "measurements": {
+        "temperature": 28.2,
+        "humidity": 78,
+        "pressure": 1015.0
+      },
+      "metadata": {
+        "deviceId": "dev_321",
+        "installationDate": "2024-01-24",
+        "type": "indoor"
+      },
+      "images": [
+        {
+          "id": "img136_1",
+          "url": "https://robohash.org/Location 136",
+          "caption": "Overview shot",
+          "timestamp": "2025-02-11T15:12:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot137",
+      "name": "Location 137",
+      "coordinates": {
+        "lat": 78.5894,
+        "lng": -55.9581
+      },
+      "status": "maintenance",
+      "lastUpdated": "2025-01-25T15:46:13Z",
+      "measurements": {
+        "temperature": 36.5,
+        "humidity": 34,
+        "pressure": 1010.9
+      },
+      "metadata": {
+        "deviceId": "dev_111",
+        "installationDate": "2024-01-28",
+        "type": "outdoor"
+      },
+      "images": [
+        {
+          "id": "img137_1",
+          "url": "https://robohash.org/Location 137",
+          "caption": "Side angle",
+          "timestamp": "2025-02-11T15:08:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot138",
+      "name": "Location 138",
+      "coordinates": {
+        "lat": 51.4584,
+        "lng": 106.8608
+      },
+      "status": "maintenance",
+      "lastUpdated": "2025-02-06T15:46:13Z",
+      "measurements": {
+        "temperature": 26.0,
+        "humidity": 44,
+        "pressure": 1018.3
+      },
+      "metadata": {
+        "deviceId": "dev_666",
+        "installationDate": "2024-01-26",
+        "type": "outdoor"
+      },
+      "images": [
+        {
+          "id": "img138_1",
+          "url": "https://robohash.org/Location 138",
+          "caption": "Side angle",
+          "timestamp": "2025-02-11T14:59:13Z"
+        },
+        {
+          "id": "img138_2",
+          "url": "https://robohash.org/Location 138",
+          "caption": "Main view",
+          "timestamp": "2025-02-11T15:32:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot139",
+      "name": "Location 139",
+      "coordinates": {
+        "lat": -28.4821,
+        "lng": -142.0942
+      },
+      "status": "active",
+      "lastUpdated": "2025-01-30T15:46:13Z",
+      "measurements": {
+        "temperature": 30.5,
+        "humidity": 37,
+        "pressure": 1001.6
+      },
+      "metadata": {
+        "deviceId": "dev_806",
+        "installationDate": "2024-01-06",
+        "type": "indoor"
+      },
+      "images": [
+        {
+          "id": "img139_1",
+          "url": "https://robohash.org/Location 139",
+          "caption": "Overview shot",
+          "timestamp": "2025-02-11T15:30:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot140",
+      "name": "Location 140",
+      "coordinates": {
+        "lat": 16.6415,
+        "lng": -132.3557
+      },
+      "status": "active",
+      "lastUpdated": "2025-02-06T15:46:13Z",
+      "measurements": {
+        "temperature": 11.1,
+        "humidity": 54,
+        "pressure": 1003.7
+      },
+      "metadata": {
+        "deviceId": "dev_915",
+        "installationDate": "2024-01-26",
+        "type": "outdoor"
+      },
+      "images": [
+        {
+          "id": "img140_1",
+          "url": "https://robohash.org/Location 140",
+          "caption": "Overview shot",
+          "timestamp": "2025-02-11T15:29:13Z"
+        },
+        {
+          "id": "img140_2",
+          "url": "https://robohash.org/Location 140",
+          "caption": "Overview shot",
+          "timestamp": "2025-02-11T15:37:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot141",
+      "name": "Location 141",
+      "coordinates": {
+        "lat": -54.8107,
+        "lng": -107.247
+      },
+      "status": "maintenance",
+      "lastUpdated": "2025-01-13T15:46:13Z",
+      "measurements": {
+        "temperature": 27.0,
+        "humidity": 31,
+        "pressure": 1010.4
+      },
+      "metadata": {
+        "deviceId": "dev_125",
+        "installationDate": "2024-01-08",
+        "type": "indoor"
+      },
+      "images": [
+        {
+          "id": "img141_1",
+          "url": "https://robohash.org/Location 141",
+          "caption": "Main view",
+          "timestamp": "2025-02-11T15:37:13Z"
+        },
+        {
+          "id": "img141_2",
+          "url": "https://robohash.org/Location 141",
+          "caption": "Main view",
+          "timestamp": "2025-02-11T15:32:13Z"
+        },
+        {
+          "id": "img141_3",
+          "url": "https://robohash.org/Location 141",
+          "caption": "Main view",
+          "timestamp": "2025-02-11T14:56:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot142",
+      "name": "Location 142",
+      "coordinates": {
+        "lat": -37.604,
+        "lng": 101.7368
+      },
+      "status": "maintenance",
+      "lastUpdated": "2025-02-02T15:46:13Z",
+      "measurements": {
+        "temperature": 18.3,
+        "humidity": 35,
+        "pressure": 1008.7
+      },
+      "metadata": {
+        "deviceId": "dev_861",
+        "installationDate": "2024-01-23",
+        "type": "outdoor"
+      },
+      "images": [
+        {
+          "id": "img142_1",
+          "url": "https://robohash.org/Location 142",
+          "caption": "Main view",
+          "timestamp": "2025-02-11T15:45:13Z"
+        },
+        {
+          "id": "img142_2",
+          "url": "https://robohash.org/Location 142",
+          "caption": "Overview shot",
+          "timestamp": "2025-02-11T15:34:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot143",
+      "name": "Location 143",
+      "coordinates": {
+        "lat": -54.7193,
+        "lng": 165.5683
+      },
+      "status": "maintenance",
+      "lastUpdated": "2025-02-05T15:46:13Z",
+      "measurements": {
+        "temperature": 23.5,
+        "humidity": 90,
+        "pressure": 1007.5
+      },
+      "metadata": {
+        "deviceId": "dev_360",
+        "installationDate": "2024-01-17",
+        "type": "outdoor"
+      },
+      "images": [
+        {
+          "id": "img143_1",
+          "url": "https://robohash.org/Location 143",
+          "caption": "Main view",
+          "timestamp": "2025-02-11T15:22:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot144",
+      "name": "Location 144",
+      "coordinates": {
+        "lat": -65.2739,
+        "lng": -83.578
+      },
+      "status": "maintenance",
+      "lastUpdated": "2025-02-04T15:46:13Z",
+      "measurements": {
+        "temperature": 16.5,
+        "humidity": 64,
+        "pressure": 1005.4
+      },
+      "metadata": {
+        "deviceId": "dev_492",
+        "installationDate": "2024-01-29",
+        "type": "indoor"
+      },
+      "images": [
+        {
+          "id": "img144_1",
+          "url": "https://robohash.org/Location 144",
+          "caption": "Detailed view",
+          "timestamp": "2025-02-11T15:32:13Z"
+        },
+        {
+          "id": "img144_2",
+          "url": "https://robohash.org/Location 144",
+          "caption": "Overview shot",
+          "timestamp": "2025-02-11T15:22:13Z"
+        },
+        {
+          "id": "img144_3",
+          "url": "https://robohash.org/Location 144",
+          "caption": "Close-up detail",
+          "timestamp": "2025-02-11T15:16:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot145",
+      "name": "Location 145",
+      "coordinates": {
+        "lat": 64.9751,
+        "lng": -145.0479
+      },
+      "status": "active",
+      "lastUpdated": "2025-01-14T15:46:13Z",
+      "measurements": {
+        "temperature": 39.8,
+        "humidity": 74,
+        "pressure": 1007.4
+      },
+      "metadata": {
+        "deviceId": "dev_682",
+        "installationDate": "2024-01-01",
+        "type": "indoor"
+      },
+      "images": [
+        {
+          "id": "img145_1",
+          "url": "https://robohash.org/Location 145",
+          "caption": "Side angle",
+          "timestamp": "2025-02-11T15:16:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot146",
+      "name": "Location 146",
+      "coordinates": {
+        "lat": 15.9165,
+        "lng": -118.0254
+      },
+      "status": "maintenance",
+      "lastUpdated": "2025-02-11T15:46:13Z",
+      "measurements": {
+        "temperature": 13.4,
+        "humidity": 90,
+        "pressure": 1011.0
+      },
+      "metadata": {
+        "deviceId": "dev_881",
+        "installationDate": "2024-01-29",
+        "type": "outdoor"
+      },
+      "images": [
+        {
+          "id": "img146_1",
+          "url": "https://robohash.org/Location 146",
+          "caption": "Main view",
+          "timestamp": "2025-02-11T14:52:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot147",
+      "name": "Location 147",
+      "coordinates": {
+        "lat": 0.6328,
+        "lng": 50.9141
+      },
+      "status": "active",
+      "lastUpdated": "2025-01-22T15:46:13Z",
+      "measurements": {
+        "temperature": 25.2,
+        "humidity": 34,
+        "pressure": 1015.7
+      },
+      "metadata": {
+        "deviceId": "dev_352",
+        "installationDate": "2024-01-09",
+        "type": "indoor"
+      },
+      "images": [
+        {
+          "id": "img147_1",
+          "url": "https://robohash.org/Location 147",
+          "caption": "Overview shot",
+          "timestamp": "2025-02-11T15:28:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot148",
+      "name": "Location 148",
+      "coordinates": {
+        "lat": 69.135,
+        "lng": -43.5052
+      },
+      "status": "active",
+      "lastUpdated": "2025-02-11T15:46:13Z",
+      "measurements": {
+        "temperature": 20.9,
+        "humidity": 46,
+        "pressure": 1002.5
+      },
+      "metadata": {
+        "deviceId": "dev_570",
+        "installationDate": "2024-01-14",
+        "type": "indoor"
+      },
+      "images": [
+        {
+          "id": "img148_1",
+          "url": "https://robohash.org/Location 148",
+          "caption": "Close-up detail",
+          "timestamp": "2025-02-11T15:28:13Z"
+        },
+        {
+          "id": "img148_2",
+          "url": "https://robohash.org/Location 148",
+          "caption": "Side angle",
+          "timestamp": "2025-02-11T14:47:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot149",
+      "name": "Location 149",
+      "coordinates": {
+        "lat": 20.6525,
+        "lng": -84.4747
+      },
+      "status": "active",
+      "lastUpdated": "2025-01-24T15:46:13Z",
+      "measurements": {
+        "temperature": 14.6,
+        "humidity": 39,
+        "pressure": 1019.1
+      },
+      "metadata": {
+        "deviceId": "dev_357",
+        "installationDate": "2024-01-07",
+        "type": "indoor"
+      },
+      "images": [
+        {
+          "id": "img149_1",
+          "url": "https://robohash.org/Location 149",
+          "caption": "Close-up detail",
+          "timestamp": "2025-02-11T14:47:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot150",
+      "name": "Location 150",
+      "coordinates": {
+        "lat": -28.8321,
+        "lng": 126.1081
+      },
+      "status": "maintenance",
+      "lastUpdated": "2025-01-26T15:46:13Z",
+      "measurements": {
+        "temperature": 15.8,
+        "humidity": 35,
+        "pressure": 1012.1
+      },
+      "metadata": {
+        "deviceId": "dev_101",
+        "installationDate": "2024-01-21",
+        "type": "outdoor"
+      },
+      "images": [
+        {
+          "id": "img150_1",
+          "url": "https://robohash.org/Location 150",
+          "caption": "Side angle",
+          "timestamp": "2025-02-11T15:40:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot151",
+      "name": "Location 151",
+      "coordinates": {
+        "lat": -72.354,
+        "lng": -141.766
+      },
+      "status": "maintenance",
+      "lastUpdated": "2025-02-05T15:46:13Z",
+      "measurements": {
+        "temperature": 23.1,
+        "humidity": 64,
+        "pressure": 1002.7
+      },
+      "metadata": {
+        "deviceId": "dev_972",
+        "installationDate": "2024-01-04",
+        "type": "outdoor"
+      },
+      "images": [
+        {
+          "id": "img151_1",
+          "url": "https://robohash.org/Location 151",
+          "caption": "Overview shot",
+          "timestamp": "2025-02-11T15:14:13Z"
+        },
+        {
+          "id": "img151_2",
+          "url": "https://robohash.org/Location 151",
+          "caption": "Side angle",
+          "timestamp": "2025-02-11T15:36:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot152",
+      "name": "Location 152",
+      "coordinates": {
+        "lat": -84.0351,
+        "lng": 63.2697
+      },
+      "status": "active",
+      "lastUpdated": "2025-01-20T15:46:13Z",
+      "measurements": {
+        "temperature": 24.1,
+        "humidity": 82,
+        "pressure": 1007.1
+      },
+      "metadata": {
+        "deviceId": "dev_682",
+        "installationDate": "2024-01-23",
+        "type": "indoor"
+      },
+      "images": [
+        {
+          "id": "img152_1",
+          "url": "https://robohash.org/Location 152",
+          "caption": "Main view",
+          "timestamp": "2025-02-11T15:26:13Z"
+        },
+        {
+          "id": "img152_2",
+          "url": "https://robohash.org/Location 152",
+          "caption": "Close-up detail",
+          "timestamp": "2025-02-11T15:08:13Z"
+        }
+      ]
+    },
+    {
+      "id": "spot153",
+      "name": "Location 153",
+      "coordinates": {
+        "lat": 40.1078,
+        "lng": -122.4643
+      },
+      "status": "maintenance",
+      "lastUpdated": "2025-01-31T15:46:13Z",
+      "measurements": {
+        "temperature": 21.8,
+        "humidity": 80,
+        "pressure": 1017.6
+      },
+      "metadata": {
+        "deviceId": "dev_467",
+        "installationDate": "2024-01-14",
+        "type": "outdoor"
+      },
+      "images": [
+        {
+          "id": "img153_1",
+          "url": "https://robohash.org/Location 153",
+          "caption": "Overview shot",
+          "timestamp": "2025-02-11T15:21:13Z"
+        }
+      ]
+    }
+  ]
+}

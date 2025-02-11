@@ -1,0 +1,1 @@
+/Users/disco/Code/wasm-projects/report-builder/wasm/target/wasm32-unknown-unknown/release/report_builder_wasm.wasm: /Users/disco/Code/wasm-projects/report-builder/wasm/src/lib.rs /Users/disco/Code/wasm-projects/report-builder/wasm/src/table.rs
